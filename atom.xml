@@ -2,14 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JoeytheTranslator.github.io/</id>
     <title>JoeytheTranslator</title>
-    <updated>2021-01-25T08:21:11.368Z</updated>
+    <updated>2021-01-25T08:49:48.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JoeytheTranslator.github.io/"/>
     <link rel="self" href="https://JoeytheTranslator.github.io/atom.xml"/>
-    <subtitle>Always the outlaw</subtitle>
+    <subtitle>Always the outlaw :)</subtitle>
     <logo>https://JoeytheTranslator.github.io/images/avatar.png</logo>
     <icon>https://JoeytheTranslator.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, JoeytheTranslator</rights>
+    <entry>
+        <title type="html"><![CDATA[翻译笔记：“环境证据”如何翻译？]]></title>
+        <id>https://JoeytheTranslator.github.io/post/fan-yi-bi-ji-huan-jing-zheng-ju-ru-he-fan-yi/</id>
+        <link href="https://JoeytheTranslator.github.io/post/fan-yi-bi-ji-huan-jing-zheng-ju-ru-he-fan-yi/">
+        </link>
+        <updated>2021-01-25T08:39:40.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="结论">结论：</h3>
+<ol>
+<li>环境证据=间接证据=circumstantial evidence。</li>
+<li>environmental evidence是环境证据的“直译”，是错误的翻译。</li>
+<li>个人观点：“间接证据”的表述优于“环境证据”。</li>
+</ol>
+<h3 id="过程">过程：</h3>
+<p>​		最近浏览到一篇文章<a href="http://dingjinkun.blog.caixin.com/archives/232355">《深圳“下药”案存疑不捕：环境证据尚待补强》</a>，因为之前没听过环境证据这个说法，阅读相关文章后（例如<a href="http://rmfyb.chinacourt.org/paper/html/2018-09/28/content_144075.htm?div=-1">《环境证据的普通法诠释》</a>），在搜索引擎一查，发现中国大陆把这个词翻译成“Environmental Evidence”，比如<a href="https://www.pkulaw.com/qikan/a33b3155723aa63935204dea7df15970bdfb.html">《环境证据辨》</a>这篇文章。这样的翻译看着就可疑。</p>
+<p>​		没有找到“环境证据”的出处，于是把Environmental Evidence作为关键词在搜索引擎上一查，果然在英文语境中没有这种用法。因为<a href="http://rmfyb.chinacourt.org/paper/html/2018-09/28/content_144075.htm?div=-1">《环境证据的普通法诠释》</a>这篇文章中提到某个香港法院的案例，于是查到该案例的判决编号，到<a href="https://www.judiciary.hk/zh/judgments_legal_reference/judgments.html">香港法院官网</a>找到<a href="https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=117857&amp;QS=%2B&amp;TP=RS">判决原文</a>，这才发现，所谓的“<strong>环境证据</strong>”对应的英文译法是“<strong>circumstantial evidence</strong>”。</p>
+<p>​		对于circumstantial evidence，元照英美法词典将其译为“情况证据；间接证据“，指基于常识可以合理地从中推断出待证事实的情况或事实，而并非个人亲身经历或亲眼所见的事实。也指除证人证言以外的其他形式的证据。在无直接证据的情况下，与待证事实有关联性的间接证据可以被采纳。</p>
+<p>​		Lexisnexis的解释: Evidence of a fact or facts from which another fact or series of facts relevant to the case might be inferred or deduced.  There is no rule of law that such evidence is to be treated differently from other evidence. Accordingly the judge is not under any duty to direct the jury on the significance of circumstantial evidence as distinct from direct evidence: R v Wong Mau Ting [1967] HKLR 531. Where circumstantial evidence is relied upon, the jury should be simply directed to be satisfied beyond reasonable doubt: McGreevy v DPP [1973] 1 All ER 503, 1 WLR 276 (HL); R v Sze Sing Ming [1991] 2 HKLR 481. See also Direction to jury; Evidence.</p>
+<p>​		一项事实或一连串事实，从中可推断或推定出涉案的另一项事实或多项事实。没有任何法律规则规定该等证据与其他证据会不同处理。相应地法官不负有任何义务，就环境证据与直接证据的不同的重要性而指示陪审团：R v Wong Mau Ting [1967] HKLR 531。当依赖环境证据时，法官仅应指示陪审团在无合理疑点的情况下信纳：McGreevy v DPP [1973] 1 All ER 503, 1 WLR 276（上议院）；R v Sze Sing Ming [1991] 2 HKLR 481。另见 Direction to jury; Evidence。</p>
+<p>​		综上，circumstantial evidence可译为间接证据、环境证据。译为间接证据更易于理解，在学理上也可以与直接证据相对。对于没有法学背景的人，环境证据可能会让人望文生义，以为跟环境或者公益有什么关系。</p>
+<p>​		Environmental Evidence 很可能是“环境证据”的word-for-word 直译，属于错误的翻译。</p>
+<p>作者：Joey<br>
+成文日期：2020年8月<br>
+第一次修改日期：2021年1月25日</p>
+<p>小记：<br>
+​		之前尝试过公众号，新浪博客等写作渠道，但都没有坚持下来。也看过别人把Github当作博客用，以前一直想尝试，但不会技术，入门无方。最近看到韩林涛老师的极简教程，决定来试水。先把这篇放上来，之后再慢慢整理以前写过的东西吧。也打算像阮一峰老师那样，做个翻译周刊记录一下。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://JoeytheTranslator.github.io/post/hello-gridea/</id>
