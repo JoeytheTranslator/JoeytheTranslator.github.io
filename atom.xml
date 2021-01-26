@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JoeytheTranslator.github.io/</id>
     <title>JoeytheTranslator</title>
-    <updated>2021-01-25T16:51:44.030Z</updated>
+    <updated>2021-01-26T10:10:11.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JoeytheTranslator.github.io/"/>
     <link rel="self" href="https://JoeytheTranslator.github.io/atom.xml"/>
@@ -10,6 +10,100 @@
     <logo>https://JoeytheTranslator.github.io/images/avatar.png</logo>
     <icon>https://JoeytheTranslator.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, JoeytheTranslator</rights>
+    <entry>
+        <title type="html"><![CDATA[翻译笔记：银行“分行和支行”如何翻译？]]></title>
+        <id>https://JoeytheTranslator.github.io/post/fan-yi-bi-ji-yin-xing-fen-xing-he-zhi-xing-ru-he-fan-yi/</id>
+        <link href="https://JoeytheTranslator.github.io/post/fan-yi-bi-ji-yin-xing-fen-xing-he-zhi-xing-ru-he-fan-yi/">
+        </link>
+        <updated>2021-01-26T10:06:50.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="结论">结论：</h3>
+<ol>
+<li>总行=Headquarters</li>
+<li>分行=Regional Headquarters，中译英时可以忽略<strong>分行</strong>字眼。</li>
+<li>支行=Branch</li>
+<li>分行营业部=Office</li>
+<li>sub-branch在英美的银行体系中不存在。把支行翻译成sub-branch 是误译。</li>
+</ol>
+<h3 id="分析与检索过程">分析与检索过程：</h3>
+<p>分行、支行在合同翻译中常常出现在“付款方式“（Payment Method），双方约定收款银行账户时，会指明开户行，在合同中明确写明开户行是哪个分行或支行，有时会出现”××分行××支行“的表述。</p>
+<p>那么，“分行和支行”应该如何翻译？</p>
+<p>中国大陆的银行体系，和行政区域的划分基本一致，大致分为总行、省行、分行、支行。国有银行的总行基本都在北京，分支机构向全国各地扩散。</p>
+<ul>
+<li>总行指总部。</li>
+<li>分行是一个省或一个市只有一个，实际上是区域总部。</li>
+<li>支行可以理解为大众日常去办理业务、存取款的营业厅，一个区/县可能有很多支行。</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>行政区划</th>
+<th>银行体系</th>
+<th>营业部/室的对应级别</th>
+<th>例子</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中央</td>
+<td>总行</td>
+<td></td>
+<td>××银行</td>
+</tr>
+<tr>
+<td>省</td>
+<td>省行（一级分行）</td>
+<td></td>
+<td><a href="http://www.ccb.com/fj/cn/index.html">中国建设银行福建省分行</a></td>
+</tr>
+<tr>
+<td>市</td>
+<td>市行（二级分行）</td>
+<td></td>
+<td>××市分行</td>
+</tr>
+<tr>
+<td>区/县</td>
+<td>支行（一级支行）</td>
+<td>二级分行的营业部</td>
+<td><a href="http://m.cmbchina.com/Branch/CmbSubbranchDetail.aspx?id=2294">招商银行北京分行营业部</a></td>
+</tr>
+<tr>
+<td>街道</td>
+<td>支行（二级支行）</td>
+<td>一级支行的营业室</td>
+<td>中山路支行，××县支行营业室</td>
+</tr>
+</tbody>
+</table>
+<p>这个表格的分类不绝对，有些商业银行也会把经济发展好的市行归为一级分行。<a href="http://branch.cmbchina.com/">这里</a>可以查看招商银行的分行等级。</p>
+<h4 id="关于支行">关于支行</h4>
+<p>However, according to the <a href="https://www.wsj.com/articles/banks-double-down-on-branch-cutbacks-1517826601">Wall Street Journal</a>, there has been a sharp nationwide rise in the number of branches being closed by banks.  <a href="https://smartasset.com/checking-account/what-is-a-bank-branch">[Source]</a></p>
+<ul>
+<li>此处的branches 指实体店/实体场所，跟支行的含义最接近。</li>
+</ul>
+<h4 id="关于分行">关于分行</h4>
+<p>A Franklin County bank will open a regional headquarters in the Harrisburg area. <a href="https://www.pennlive.com/news/2020/09/franklin-county-bank-to-open-regional-headquarters-in-the-harrisburg-area.html">[Source]</a></p>
+<ul>
+<li>分行，本质上就是××银行在某个区域内的总部，福建省分行就是福建的区域总部，深圳市分行就是深圳的区域总部。因此分行与regional headquarters的含义最接近。</li>
+</ul>
+<p>在<a href="https://www.royalbusinessbankusa.com/offices.htm">Royal Business Bank</a>的<a href="https://www.royalbusinessbankusa.com/chinese/offices.htm">中文官网</a>，英译中时，在中文添加<strong>分行</strong>字眼，比如将Westlake Village译为西湖村分行。这个方法可以借鉴。在中译英反向操作，翻译各地分行时，可以保留地址，将&quot;分行&quot;忽略不译。</p>
+<p>此外，branch除了指支行外，还经常被翻译成”分公司”。但这不绝对。branch本身有location的含义，因此，branch要与地址关联。</p>
+<p><strong>OF A BUSINESS/SHOP/COMPANY ETC</strong> <a href="https://www.ldoceonline.com/dictionary/branch">a local business, shop etc that is part of a larger business etc.</a></p>
+<ol>
+<li>The bank has branches all over the country.</li>
+<li>a branch office in Boston</li>
+<li>She now works in our Denver branch.</li>
+<li>Where is their nearest branch?</li>
+<li>They are planning to open a branch in St. Louis next year.</li>
+<li>Have you met our branch manager, Mr. Carlson?</li>
+</ol>
+<p>上海、北京是location，因此上海分公司、北京分公司可以翻译为Shanghai Branch, Beijing Branch。而<a href="http://www.gsxt.gov.cn/%7BD9DA0C82B1FBAD5042CCCB8193272F1C920EACBEF468DC5E88C2F17FE3BA45CBCC50E466B0FA58A5497A876BC9CE6C26939D2C32E713516793223402F60C31FCA0C6A0C6A0FAEE88EE88EE88D4B2C49855096FA26F1829FB636B320BD8CA7E76C1C6F5E7401C401A6D8E2CD13D9F030B19BEE482E482E482-1611652580465%7D">东风汽车集团股份有限公司岚图汽车科技分公司</a>翻译成branch就是错误的，因为岚图是品牌/字号，汽车科技是行业，都不是location。在中国大陆，分公司不是独立法人，可以视为法人的一个部门，因此，此处的分公司翻译成department更符合其法律实质。</p>
+<p>另外，东风汽车为什么要注册一个分公司呢？如果岚图是未来发展的重点，似乎子公司是更好的选择。</p>
+<h3 id="其他">其他</h3>
+<p>brick-and-mortar，实体，线下。跟没有实体场所相对应。</p>
+<p><a href="https://www.investopedia.com/terms/b/brickandmortar.asp">investopedia</a>：The term &quot;brick-and-mortar&quot; refers to a traditional street-side business that offers products and services to its customers face-to-face in an office or store that the business owns or rents.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[翻译笔记：“环境证据”如何翻译？]]></title>
         <id>https://JoeytheTranslator.github.io/post/fan-yi-bi-ji-huan-jing-zheng-ju-ru-he-fan-yi/</id>
@@ -35,38 +129,6 @@
 第一次修改日期：2021年1月25日</p>
 <p>小记：<br>
 ​		之前尝试过公众号，新浪博客等写作渠道，但都没有坚持下来。也看过别人把Github当作博客用，以前一直想尝试，但不会技术，入门无方。最近看到韩林涛老师的极简教程，决定来试水。先把这篇放上来，之后再慢慢整理以前写过的东西吧。也打算像阮一峰老师那样，做个翻译周刊记录一下。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://JoeytheTranslator.github.io/post/hello-gridea/</id>
-        <link href="https://JoeytheTranslator.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
