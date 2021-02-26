@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JoeytheTranslator.github.io/</id>
     <title>JoeytheTranslator</title>
-    <updated>2021-01-26T10:10:11.508Z</updated>
+    <updated>2021-02-26T16:35:19.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JoeytheTranslator.github.io/"/>
     <link rel="self" href="https://JoeytheTranslator.github.io/atom.xml"/>
@@ -10,6 +10,83 @@
     <logo>https://JoeytheTranslator.github.io/images/avatar.png</logo>
     <icon>https://JoeytheTranslator.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, JoeytheTranslator</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年2月 翻译笔记]]></title>
+        <id>https://JoeytheTranslator.github.io/post/2021-nian-2-yue-fan-yi-bi-ji/</id>
+        <link href="https://JoeytheTranslator.github.io/post/2021-nian-2-yue-fan-yi-bi-ji/">
+        </link>
+        <updated>2021-02-26T16:31:27.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="合作cooperation-vs-collaboration-vs-coordination">合作？cooperation vs. collaboration vs. <strong>coordination</strong></h2>
+<ul>
+<li>cooperation=assist, not necessarily do. 配合，起次要或辅助作用，e.g. 请配合我们的工作！</li>
+<li>collaboration= both parties do it together= 合作，同等重要</li>
+<li>coordinate，使各部分协调，强调不同部门/部位配合好，才能发挥1+1&gt;2的效果</li>
+</ul>
+<h2 id="解释interpret-vs-construe-interpretation-vs-construction">解释？interpret vs. construe, interpretation vs. construction</h2>
+<p>推荐使用interpret，construe次之，construction基本都是建筑的意思，常和design一起出现在同一份合同中。</p>
+<ul>
+<li>the word “will” <a href="https://www.sec.gov/Archives/edgar/data/1464790/000161577418015051/s114865_ex10-2.htm">shall be construed to</a> have the same meaning and effect as the word “shall,”</li>
+<li>any forbearance granted by Lender shall not constitute and <a href="https://www.sec.gov/Archives/edgar/data/878774/000121581108000082/exh10-1.htm">shall not be construed or interpreted to</a> constitute a waiver of any Default or Event of Default which may now or hereafter exist under the Loan Documents</li>
+<li>put a construction on sth, to understand something in a particular way:
+<ul>
+<li>I don't want them to put the wrong construction on my actions.</li>
+</ul>
+</li>
+</ul>
+<h2 id="侵权责任和补充责任-tort-liability-vs-secondary-liability">侵权责任和补充责任 tort liability vs. <a href="https://www.law.cornell.edu/wex/secondary_liability">secondary liability</a></h2>
+<p>补充责任指的是，在主要过错方无法承担所有侵权责任后，由次要过错方承担的责任。</p>
+<ul>
+<li>有明确的顺序，必须主要过错方先承担责任。</li>
+<li>说人话就是：必须犯大错的人赔到倾家荡产都赔不完，才能让同案中犯小错的人开始赔偿。</li>
+<li>注：各种百科或者学位论文里的 supplementary liability 是把 “补充”和“责任”分别直译，然后凑在一起，属于完全的误译。</li>
+</ul>
+<h2 id="国家state-vs-country">国家？State vs. Country</h2>
+<p>在翻译“国家/地区”时，建议使用country而不是state，因为在美国，state是指州，而非国家。可能引起歧义。</p>
+<p>Apple: <a href="https://www.apple.com/choose-country-region/">Choose Your Country or Region</a></p>
+<p>UN: <a href="https://unstats.un.org/unsd/methodology/m49/">Standard country or area codes for statistical use (M49)</a>; <a href="https://unstats.un.org/unsd/methodology/m49/">Countries or areas / geographical regions</a></p>
+<h2 id="处置处理">处置，处理</h2>
+<p>process， 加工，处理</p>
+<ul>
+<li>
+<p>may take a few weeks for your application to be processed.</p>
+<p>审查你的申请书也许要等几个星期.</p>
+</li>
+<li>
+<p>process leather to make it softer</p>
+<p>鞣制皮革使其变得柔软</p>
+</li>
+</ul>
+<p>dispose，去除，处理，舍弃</p>
+<ul>
+<li>
+<p>a better way of disposing of household waste</p>
+<p>清除家中垃圾的好办法、</p>
+</li>
+<li>
+<p>All the furniture has been disposed of. 所有的家具都已处理掉了.</p>
+</li>
+</ul>
+<p>treatment，处理，处置</p>
+<ul>
+<li>Britannica: <a href="https://www.britannica.com/technology/hazardous-waste-management/Treatment-storage-and-disposal">Treatment, Storage, And Disposal</a></li>
+<li>排污设施=污染物处理设施=pollutant treatment equipment，而不是字面意思上的”直接把污染物排放出去的设施“。</li>
+<li>污染物排放=Pollutant Discharge</li>
+<li>EPA (美国环保部)有个下属项目 <a href="https://www.epa.gov/npdes">National Pollutant Discharge Elimination System</a> (NPDES)，全国污染减排系统？</li>
+</ul>
+<h2 id="指定customer-designated">指定=customer-designated</h2>
+<p>Use <a href="https://aerokool.com/company-profile/terms-and-conditions/">customer-designated</a> or approved external providers, including process sources (e.g., special processes);</p>
+<h2 id="专利翻译笔记">专利翻译笔记</h2>
+<p>被动元件=passive component, 主动元件=active components</p>
+<ul>
+<li><a href="https://www.escomponents.com/blog/2019/7/31/active-amp-passive-components-what-is-the-difference-between-the-two">Active &amp; Passive Components - What Is The Difference Between The Two?</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6">维基百科</a>：被动元件（Passive components），又称无源器件，在不同领域有不同定义，可以指消耗但不产生能量的电子元件，或者指无法产生增益的电子元件。与被动元件或无源器件相对的另一类元器件是主动元件或有源器件。</li>
+</ul>
+<p>合法存续证明=certificate of <a href="https://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?referer=https://g.luciaz.me/&amp;httpsredir=1&amp;article=1655&amp;context=lsfp">good standing</a></p>
+<ul>
+<li>Legalzoom: <a href="https://www.legalzoom.com/articles/what-is-a-certificate-of-good-standing">What Is a Certificate of Good Standing?</a></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[翻译笔记：银行“分行和支行”如何翻译？]]></title>
         <id>https://JoeytheTranslator.github.io/post/fan-yi-bi-ji-yin-xing-fen-xing-he-zhi-xing-ru-he-fan-yi/</id>
