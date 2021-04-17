@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JoeytheTranslator.github.io/</id>
     <title>Joey the Translator</title>
-    <updated>2021-04-17T09:56:18.840Z</updated>
+    <updated>2021-04-17T12:47:31.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JoeytheTranslator.github.io/"/>
     <link rel="self" href="https://JoeytheTranslator.github.io/atom.xml"/>
@@ -10,6 +10,252 @@
     <logo>https://JoeytheTranslator.github.io/images/avatar.png</logo>
     <icon>https://JoeytheTranslator.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Joey the Translator</rights>
+    <entry>
+        <title type="html"><![CDATA[翻译周刊 #20210417]]></title>
+        <id>https://JoeytheTranslator.github.io/post/fan-yi-zhou-kan-20210417/</id>
+        <link href="https://JoeytheTranslator.github.io/post/fan-yi-zhou-kan-20210417/">
+        </link>
+        <updated>2021-04-17T12:40:15.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="知识点">知识点</h2>
+<p>最近在Review国内某个自贸港的国际医疗旅游先行区条例，其中会涉及到法律术语、医学术语、中国特色的政治术语。其中的大部分术语，认真检索都可以找到正确的英语术语。但最初的翻译人员实在是有点敷衍，术语基本都没有译出或者直接按照想象错译。按照Q&amp;A的形式，先整理一部分，放进这一期的翻译周刊。</p>
+<p>如有其他不同意见，欢迎发邮件给我。JoeytheTranslator@foxmail.com</p>
+<h3 id="医学">医学</h3>
+<p>Q：医疗机构制剂是什么？怎么翻译成英文？</p>
+<p>A：医疗机构制剂= Finished Pharmaceutical Products (FPP)</p>
+<ul>
+<li>根据国家食品药品监督管理局2005年发布的<a href="http://www.gov.cn/gongbao/content/2006/content_292146.htm">《医疗机构制剂注册管理办法（试行）》</a>第3条，”医疗机构制剂，是指医疗机构根据本单位临床需要经批准而配制、自用的固定处方制剂。医疗机构配制的制剂，应当是市场上没有供应的品种“。</li>
+<li>不严谨的解释就是，”医疗机构制剂“=市场上买不到，本地医院自己倒腾配方，制作出来的产品/药品。</li>
+<li>英文是 Finished Pharmaceutical Products (FPP) 。也有直接译成制剂的。实际上，用制剂就可以表达这个含义，制剂本身就隐含“产品由医疗机构制作”的概念，“医疗机构制剂”显得语义重复。例如，&quot;世界卫生组织已经发布了一系列关于制剂（ Finished pharmaceutical products, FPPs）上市许可的指导原则&quot;, <a href="https://www.who.int/medicines/areas/quality_safety/regulation_legislation/39thExpertreportAnnex5.pdf?ua=1">《固定剂量复方制剂注册指导原则》</a>, WHO</li>
+</ul>
+<p>Q：特医食品是什么？怎么翻译成英文？</p>
+<p>A：特医食品=特殊医学用途配方食品=Food for special medical purpose (FSMP)=medical food</p>
+<ul>
+<li>
+<p>如果译文的读者的美国人，就译为medical food。如果读者是欧洲人或澳大利亚人，就译为Food for special medical purpose (FSMP)。</p>
+</li>
+<li>
+<p>中国：</p>
+<p>特殊医学用途配方食品，是指为满足进食受限、消化吸收障碍、代谢紊乱或者特定疾病状态人群对营养素或者膳食的特殊需要，专门加工配制而成的配方食品，包括适用于0月龄至12月龄的特殊医学用途婴儿配方食品和适用于1岁以上人群的特殊医学用途配方食品。2016年<a href="http://gkml.samr.gov.cn/nsjg/tssps/201903/t20190329_292465.html">《特殊医学用途配方食品注册管理办法》</a>第48条，国家食品药品监督管理总局</p>
+</li>
+<li>
+<p>美国：</p>
+<p>The term medical food, as defined in section 5(b) of the Orphan Drug Act (21 U.S.C. 360ee (b) (3)) is &quot;a food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.&quot; 信源：<a href="https://www.fda.gov/food/guidance-documents-regulatory-information-topic-food-and-dietary-supplements/medical-foods-guidance-documents-regulatory-information">Medical Foods Guidance Documents &amp; Regulatory Information, FDA</a> （FDA链接中有相关的指南：<a href="https://www.fda.gov/media/97726/download">Frequently Asked Questions About Medical Foods; Second Edition</a>）</p>
+</li>
+<li>
+<p>欧盟：</p>
+<p>Food for special medical purposes 信源：<a href="https://ec.europa.eu/food/safety/labelling_nutrition/special_groups_food/medical_en">欧盟官网</a></p>
+<p>FSMPs are designed to feed patients who, because of a particular disease, disorder or medical condition, have nutritional needs that cannot be met by consuming standard foodstuffs.（信源：<a href="https://www.efsa.europa.eu/en/press/news/151126">European Food Safety Authority</a>）;</p>
+<p>其他参考材料 <a href="https://www.specialisednutritioneurope.eu/wp-content/uploads/2020/03/SNE-FSMP-Educational-slide-March-2020-final.pdf">AN EDUCATIONAL PACKAGE EXPLAINING</a></p>
+</li>
+<li>
+<p>澳大利亚：</p>
+<p><a href="https://www.foodstandards.gov.au/code/Documents/2.9.5%20FSMPs%20v157.pdf">Standard 2.9.5 Food for special medical purposes</a>；</p>
+<p><a href="https://commercialeyes.com.au/food-for-special-medical-purposes-fsmp/">What is food for special medical purposes (FSMP)?</a></p>
+</li>
+</ul>
+<p>Q：备案管理怎么翻译成英文？（待核实）</p>
+<p>A：（食品/药品）备案管理=Drug Master File management</p>
+<ul>
+<li>
+<p>中国：</p>
+<p>保健食品备案，是指保健食品生产企业依照法定程序、条件和要求，将表明产品安全性、保健功能和质量可控性的材料提交食品药品监督管理部门进行存档、公开、备查的过程。2016年《保健食品注册与备案管理办法》第3条，国家食品药品监督管理总局</p>
+</li>
+<li>
+<p>美国：</p>
+<p>A Drug Master File (DMF) is a submission to the Food and Drug Administration (FDA) that may be used to provide confidential detailed information about facilities, processes, or articles used in the manufacturing, processing, packaging, and storing of one or more human drugs.  信源：<a href="https://www.fda.gov/drugs/guidances-drugs/drug-master-files-guidelines">FDA</a>; <a href="https://www.fda.gov/drugs/forms-submission-requirements/drug-master-files-dmfs">FDA</a></p>
+<p>即，DMF是医药厂商提交给FDA的文件，说明药品的生产设施、制药过程等信息。</p>
+<p>所以DMF和备案文件，本质上是非常类似。虽然中国大陆的备案肯定不是将文件提交给FDA, 但借用DMF可以有效传达信息。</p>
+<p>In line with the reform goals of the Third Plenary Session of the 18th CPC Central Committee, China commits to promote the reform of its regulatory system for active pharmaceutical ingredients (APIs) by implementing Drug Master File (DMF) management for APIs and to study the possibility of setting up a framework for the registration of bulk chemicals that can be used as APIs.  信源：<a href="https://obamawhitehouse.archives.gov/the-press-office/2013/12/05/joint-fact-sheet-strengthening-us-china-economic-relations">美国白宫奥巴马办公室</a></p>
+</li>
+<li>
+<p>备注：</p>
+<p>除了食品/药品的备案管理之外，“备案管理”还可以指其他备案。比如：<a href="https://www.nmpa.gov.cn/xxgk/ggtg/qtggtg/20200930163955170.html">2020《医药代表备案管理办法》</a>是对人的备案，而非物品。这时候就不能用DMF，而应该用recordation之类的。</p>
+</li>
+</ul>
+<h3 id="法律-政治">法律、政治</h3>
+<p>Q：政府工作人员怎么翻译成英文？</p>
+<p>A：政府工作人员=公务员=public servant</p>
+<p>Q：有关部门怎么翻译成英文？</p>
+<p>A：有关部门=Appropriate agencies</p>
+<ul>
+<li>另外，”有关法律法规“应该译为applicable law。</li>
+<li>这两处的”有关“都不是relevant。</li>
+</ul>
+<p>Q：形式审查和实质审查怎么翻译成英文？</p>
+<p>A：形式审查=Formality Review，实质审查=Substantive Review</p>
+<ul>
+<li>
+<p>形式审查是指政府/审查机构只看提交材料的是否缺漏，有无明显错误。</p>
+</li>
+<li>
+<p>实质审查是指审查机构根据既定标准，结合自己的经验，判断提交的材料的真伪。比如中国内地拟上市公司的IPO过会，证监会的审查就是一种实质审查，很多企业过不了这一关。</p>
+</li>
+<li>
+<p><a href="https://www.uspto.gov/about-us/uspto-locations/dallas-tx/patent-formality-review-and-petitions">Patent Formality Review and Petitions</a>, (信源：united states patent and trademark ofice, USPTO, 美国专利和商标局)</p>
+</li>
+<li>
+<p><a href="https://www.fda.gov/medical-devices/premarket-notification-510k/510k-submission-process#substantive">Substantive Review</a> (including Substantive Interaction and Interactive Review)<br>
+During Substantive Review, the Lead Reviewer conducts a comprehensive review of the 510(k) submission and communicates with the submitter through a Substantive Interaction, which should occur within 60 calendar days of receipt of the 510(k) submission. (信源：U.S. Food and Drug Administration, FDA, 美国食品药品监督管理局)</p>
+</li>
+<li>
+<p>备注：</p>
+<p><a href="https://www.wipo.int/sme/en/obtain_ip_rights/patents.html">WIPO 也用formal examination和Substantive examination 来表示专利审查中的两个步骤</a>。但就法律英语而言，WIPO并不是一个可靠的信源。</p>
+<p>另外，[&quot;Formality Review&quot; &quot;patent&quot; ] 的检索结果数量远远多于[&quot;formal examination&quot; &quot;patent&quot;], 更重要的是，前者的检索结果命中了很多美国政府的官方网址，比如 <a href="https://www.federalregister.gov/documents/2006/06/26/E6-10022/changes-to-practice-for-petitions-in-patent-applications-to-make-special-and-for-accelerated">The petition to make special will be dismissed if the application omits an item or includes a paper that causes the Office of Initial Patent Examination (OIPE) to mail a notice during the formality review ...</a> 和 <a href="https://www.uspto.gov/web/offices/pac/mpep/s1801.html">The receiving Office functions as the filing and formalities review organization for international applications.</a>, 而后者基本都指向和学生考试相关的内容。</p>
+</li>
+<li>
+<p>因此，Formality Review更有可能是形式审查的正确英译。</p>
+</li>
+</ul>
+<p>Q：放管服怎么翻译成英文？（待核实）</p>
+<p>A：streamline administration, delegate government power, strengthen regulation and improve services.</p>
+<ul>
+<li>放管服是缩写，原文是“简政放权、放管结合、优化服务”。例如，这条官方新闻：<a href="http://www.gov.cn/xinwen/2019-06/26/content_5403313.htm">简政放权、放管结合、优化服务，国务院要求用政府改革激发市场活力</a>。具体的措施包括：缩减市场准入负面清单，简化政府的各种审批，推进社会信用体系建设和承诺制，实现“一网通办”等。这种表达一看就是中国特色政治术语，可以到<a href="http://210.72.20.108/index/list_1.jsp?cls=0&amp;key=%E7%AE%80%E6%94%BF%E6%94%BE%E6%9D%83%E3%80%81%E6%94%BE%E7%AE%A1%E7%BB%93%E5%90%88%E3%80%81%E4%BC%98%E5%8C%96%E6%9C%8D%E5%8A%A1">中国特色话语对外翻译标准化术语库</a>查询，寻找线索。但这个表达native speaker能不能理解仍未知。</li>
+<li>For China to advance structural reform, it is important to unleash the infinite creativity of the people. At last year's Summer Davos, I raised the idea of mass entrepreneurship and innovation. This in fact makes a major part of China's ongoing structural reform and adjustment. Measures have been taken to <a href="https://www.chinadaily.com.cn/bizchina/2015-09/11/content_21845180_3.htm">streamline administration, delegate government power, strengthen regulation and improve services</a>. （A new blueprint for global growth，信源：ChinaDaily，需谨慎对待）</li>
+<li>Streamline Administration, Delegate Power, Strengthen Regulation and Improve Services to Deepen Administrative Reform and Transform Government Functions （信源：<a href="http://english.www.gov.cn/premier/speeches/2015/05/23/content_281475113213526.htm">中国政府网站英文版</a>，需谨慎对待）</li>
+</ul>
+<p>Q：职权怎么翻译成英文？（待核实）</p>
+<p>A：职权=Functions and Powers</p>
+<ul>
+<li>
+<p>Under the United Nations Charter, the <a href="https://www.un.org/securitycouncil/content/functions-and-powers">functions and powers</a> of the Security Council are [...] 根据联合国宪章，安理会的职权如下： (信源：联合国安理会官网)，</p>
+</li>
+<li>
+<p>Powers and functions of administrative agencies are interchangeable – meaning administrative powers can be executive, legislative, or judicial in nature. 信源：<a href="https://administrativelaw.uslegal.com/administrative-agencies/powers-and-functions-of-administartive-agencies/">Powers And Functions Of Administartive Agencies</a>, USlegal</p>
+</li>
+</ul>
+<p>Q：公安派出所怎么翻译成英文？</p>
+<p>A：police station</p>
+<ul>
+<li>公安派出所实际上不是一个部门，而是县公安局的派出机构，是具体的执法部门，这也是“派出所”的原义。这和英文的police station含义接近，比如 <a href="https://www.police.vic.gov.au/location">Find my local police station</a>。</li>
+<li>公安机关则应该译为 law enforcement agency。但是英文中的law enforcement agency 并不单指公安机关。很多其他政府机构也有自己的 law enforcement agency。从这个意义上讲，法院内的执行局/执行庭也是 law enforcement agency。</li>
+</ul>
+<p>Q：监督管理部门</p>
+<p>A：regulatory oversight agency</p>
+<p>Q：下属部门</p>
+<p>A：component agency</p>
+<ul>
+<li>See how the Department of Homeland Security and all of its <a href="https://www.dhs.gov/organizational-chart">component agencies</a> are organized by exploring the Organizational Chart.</li>
+</ul>
+<p>Q：海警</p>
+<p>A：coast guard</p>
+<ul>
+<li>The Canadian <a href="https://www.ccg-gcc.gc.ca/index-eng.html">Coast Guard</a> is a special operating agency within Fisheries and Oceans Canada. We work to ensure the safety of mariners in Canadian waters and protect Canada’s marine environment.</li>
+</ul>
+<p>Q：经营场所</p>
+<p>A：place of business</p>
+<ul>
+<li>A company's <a href="https://www.investopedia.com/terms/p/principal-place-of-business.asp">principal place of business</a> is the primary location where its business is performed. This is generally where the business's books and records are kept and is often where the head of the firm and other senior management personnel are located.</li>
+</ul>
+<p>Q：股权变更</p>
+<p>A：equity structure change</p>
+<p>Q：企业信用信息公示系统（待核实）</p>
+<p>A：business credit information disclosure system</p>
+<ul>
+<li>参考：<a href="http://www.hk-lawyer.org/content/china%E2%80%99s-new-company-information-disclosure-system">China’s New Company Information Disclosure System</a></li>
+</ul>
+<p>Q：发票</p>
+<p>A：receipt, or tax receipt</p>
+<ul>
+<li>什么是发票？发票是税务局制作的标准文本，在买方付款后签发，由卖方签发给买方。比如在京东购物，付款后，京东才会开具发票给你，作为付款凭证。发票本质上是收据。</li>
+<li>receipt指收据。tax receipt 实质上是税务收据。比如，Most individual taxpayers receive a <a href="https://www.ato.gov.au/Individuals/Lodging-your-tax-return/In-detail/Tax-receipt/">tax receipt</a> when they lodge their annual tax return. 自然人纳税人进行年度纳税申报时会收到税务收据。</li>
+<li>备注：invoice不是发票。invoice是由卖方发给买方，要求对方付款的文本，本质上是账单。更详细的解释，可以参考<a href="https://zhuanlan.zhihu.com/p/135483316">这篇</a>文章。</li>
+</ul>
+<p>Q：红线（待核实）</p>
+<p>A：bright line</p>
+<p>中国大陆的红线通常是指制定禁止规则。例如划定生态保护红线，就是指红线内的区域严格保护。美国宪法中有Bright-line rule，是指一种解决法律问题的客观标准，几乎没有任何解释空间。从某种意义上，红线和Bright-line rule都是一种二分法，一个是区域的内和外，一个是是否符合客观标准，两者几乎都没有中间的灰色地带。</p>
+<p>因此，可以考虑借用 bright line 来翻译红线。</p>
+<p>Q：空袭</p>
+<p>A：air-raid</p>
+<ul>
+<li>air-raid refers to an attack by armed airplanes on a surface target — usually hyphenated when used attributively</li>
+<li>防空地下室/人防地下室，air-raid shelter。房地产合同或者建筑相关文件中常见的术语。</li>
+</ul>
+<h3 id="好玩的表达">好玩的表达</h3>
+<ul>
+<li>Those two are <a href="https://idioms.thefreedictionary.com/at+each+other%27s+throats">at each other's throats</a> because they can't agree on how to best lead the committee. You can hear their shouting all the way down the hall!</li>
+<li>It was a very dramatic trial, with the prosecutor and the defense attorney constantly <a href="https://idioms.thefreedictionary.com/at+each+other%27s+throats">at each other's throats</a>.</li>
+</ul>
+<p>This idiom, with its vivid image of two persons trying to strangle each other, is often applied to less physical forms of disagreement.</p>
+<p>想象两个人“互掐”的情景。但这个表达常用于不那么暴力的场合，比如检察官和律师唇枪舌剑，就可以用这个。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[翻译笔记 #202102]]></title>
+        <id>https://JoeytheTranslator.github.io/post/2021-nian-2-yue-fan-yi-bi-ji/</id>
+        <link href="https://JoeytheTranslator.github.io/post/2021-nian-2-yue-fan-yi-bi-ji/">
+        </link>
+        <updated>2021-02-26T16:31:27.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="合作cooperation-vs-collaboration-vs-coordination">合作？cooperation vs. collaboration vs. <strong>coordination</strong></h2>
+<ul>
+<li>cooperation=assist, not necessarily do. 配合，起次要或辅助作用，e.g. 请配合我们的工作！</li>
+<li>collaboration= both parties do it together= 合作，同等重要</li>
+<li>coordinate，使各部分协调，强调不同部门/部位配合好，才能发挥1+1&gt;2的效果</li>
+</ul>
+<h2 id="解释interpret-vs-construe-interpretation-vs-construction">解释？interpret vs. construe, interpretation vs. construction</h2>
+<p>推荐使用interpret，construe次之，construction基本都是建筑的意思，常和design一起出现在同一份合同中。</p>
+<ul>
+<li>the word “will” <a href="https://www.sec.gov/Archives/edgar/data/1464790/000161577418015051/s114865_ex10-2.htm">shall be construed to</a> have the same meaning and effect as the word “shall,”</li>
+<li>any forbearance granted by Lender shall not constitute and <a href="https://www.sec.gov/Archives/edgar/data/878774/000121581108000082/exh10-1.htm">shall not be construed or interpreted to</a> constitute a waiver of any Default or Event of Default which may now or hereafter exist under the Loan Documents</li>
+<li>put a construction on sth, to understand something in a particular way:
+<ul>
+<li>I don't want them to put the wrong construction on my actions.</li>
+</ul>
+</li>
+</ul>
+<h2 id="侵权责任和补充责任-tort-liability-vs-secondary-liability">侵权责任和补充责任 tort liability vs. <a href="https://www.law.cornell.edu/wex/secondary_liability">secondary liability</a></h2>
+<p>补充责任指的是，在主要过错方无法承担所有侵权责任后，由次要过错方承担的责任。</p>
+<ul>
+<li>有明确的顺序，必须主要过错方先承担责任。</li>
+<li>说人话就是：必须犯大错的人赔到倾家荡产都赔不完，才能让同案中犯小错的人开始赔偿。</li>
+<li>注：各种百科或者学位论文里的 supplementary liability 是把 “补充”和“责任”分别直译，然后凑在一起，属于完全的误译。</li>
+</ul>
+<h2 id="国家state-vs-country">国家？State vs. Country</h2>
+<p>在翻译“国家/地区”时，建议使用country而不是state，因为在美国，state是指州，而非国家。可能引起歧义。</p>
+<p>Apple: <a href="https://www.apple.com/choose-country-region/">Choose Your Country or Region</a></p>
+<p>UN: <a href="https://unstats.un.org/unsd/methodology/m49/">Standard country or area codes for statistical use (M49)</a>; <a href="https://unstats.un.org/unsd/methodology/m49/">Countries or areas / geographical regions</a></p>
+<h2 id="处置处理">处置，处理</h2>
+<p>process， 加工，处理</p>
+<ul>
+<li>
+<p>may take a few weeks for your application to be processed.</p>
+<p>审查你的申请书也许要等几个星期.</p>
+</li>
+<li>
+<p>process leather to make it softer</p>
+<p>鞣制皮革使其变得柔软</p>
+</li>
+</ul>
+<p>dispose，去除，处理，舍弃</p>
+<ul>
+<li>
+<p>a better way of disposing of household waste</p>
+<p>清除家中垃圾的好办法、</p>
+</li>
+<li>
+<p>All the furniture has been disposed of. 所有的家具都已处理掉了.</p>
+</li>
+</ul>
+<p>treatment，处理，处置</p>
+<ul>
+<li>Britannica: <a href="https://www.britannica.com/technology/hazardous-waste-management/Treatment-storage-and-disposal">Treatment, Storage, And Disposal</a></li>
+<li>排污设施=污染物处理设施=pollutant treatment equipment，而不是字面意思上的”直接把污染物排放出去的设施“。</li>
+<li>污染物排放=Pollutant Discharge</li>
+<li>EPA (美国环保部)有个下属项目 <a href="https://www.epa.gov/npdes">National Pollutant Discharge Elimination System</a> (NPDES)，全国污染减排系统？</li>
+</ul>
+<h2 id="指定customer-designated">指定=customer-designated</h2>
+<p>Use <a href="https://aerokool.com/company-profile/terms-and-conditions/">customer-designated</a> or approved external providers, including process sources (e.g., special processes);</p>
+<h2 id="专利翻译笔记">专利翻译笔记</h2>
+<p>被动元件=passive component, 主动元件=active components</p>
+<ul>
+<li><a href="https://www.escomponents.com/blog/2019/7/31/active-amp-passive-components-what-is-the-difference-between-the-two">Active &amp; Passive Components - What Is The Difference Between The Two?</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6">维基百科</a>：被动元件（Passive components），又称无源器件，在不同领域有不同定义，可以指消耗但不产生能量的电子元件，或者指无法产生增益的电子元件。与被动元件或无源器件相对的另一类元器件是主动元件或有源器件。</li>
+</ul>
+<p>合法存续证明=certificate of <a href="https://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?referer=https://g.luciaz.me/&amp;httpsredir=1&amp;article=1655&amp;context=lsfp">good standing</a></p>
+<ul>
+<li>Legalzoom: <a href="https://www.legalzoom.com/articles/what-is-a-certificate-of-good-standing">What Is a Certificate of Good Standing?</a></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[翻译笔记：银行“分行和支行”如何翻译？]]></title>
         <id>https://JoeytheTranslator.github.io/post/fan-yi-bi-ji-yin-xing-fen-xing-he-zhi-xing-ru-he-fan-yi/</id>
