@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JoeytheTranslator.github.io/</id>
     <title>Joey the Translator</title>
-    <updated>2021-03-12T15:20:08.207Z</updated>
+    <updated>2021-04-17T09:56:18.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://JoeytheTranslator.github.io/"/>
     <link rel="self" href="https://JoeytheTranslator.github.io/atom.xml"/>
-    <subtitle>Always the outlaw. 自由译员，中英法律翻译。工作请联系 JoeytheTranslator@foxmail.com    :)</subtitle>
+    <subtitle>Always the outlaw. 自由译员，中英法律翻译。工作请联系 JoeytheTranslator@foxmail.com </subtitle>
     <logo>https://JoeytheTranslator.github.io/images/avatar.png</logo>
     <icon>https://JoeytheTranslator.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Joey the Translator</rights>
