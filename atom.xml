@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://joeythetranslator.github.io</id>
+    <title>Joey&apos;s Blog</title>
+    <updated>2024-03-27T15:22:33.300Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://joeythetranslator.github.io"/>
+    <link rel="self" href="https://joeythetranslator.github.io/atom.xml"/>
+    <subtitle>This is a blog about using American English to translate Chinese stuff, in particular, the legal and business things about China.</subtitle>
+    <logo>https://joeythetranslator.github.io/images/avatar.png</logo>
+    <icon>https://joeythetranslator.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Joey&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[如何翻译 Legal Action？]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-fan-yi-legal-actionsu-song-huo-fa-lu-xing-dong/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-fan-yi-legal-actionsu-song-huo-fa-lu-xing-dong/">
+        </link>
+        <updated>2024-03-21T15:14:40.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="结论">结论</h2>
+<p>Legal Action 含义比诉讼更宽泛，应当译为法律行动。</p>
+<h2 id="缘起">缘起</h2>
+<p>朋友拿不准一段法律翻译，说是看不懂译文。</p>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1711034541948.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://joeythetranslator.github.io/post-images/1711034611638.png" alt="" loading="lazy"></figure>
+<p>老师在这里翻了好几个错误：漏译了第三方（Third Party），理解错了赔偿的条件，从而导致整句话都翻译错了；还把 Legal Action 翻译成法律诉讼。</p>
+<h2 id="查证">查证</h2>
+<p>Legal Information Institute (LII) 对 Legal Action 的解释如下：</p>
+<p>为获得法律救济、确权、或保护合法权益而提起的民事诉讼、刑事诉讼、或其他司法程序（<a href="https://www.law.cornell.edu/wex/legal_action">Legal action is a phrase that primarily refers to the act of bringing a lawsuit, prosecution, or judicial proceeding to obtain some sort of legal remedy or to ascertain or protect a legal right</a>）。</p>
+<p>而诉讼指的指司法机关在当事人和其他诉讼参与人参加下，依法定程序处理案件。俗称打官司。</p>
+<p>根据 LII 的上述定义，Legal Action 的含义明显比诉讼更宽泛。诉讼中，司法机关是第三方。而 Legal Action 既可以向司法机关提起，也可以向行政机关提起（<a href="https://www.law.cornell.edu/wex/legal_action">including bringing a claim before an administrative agency</a>）。</p>
+<p>香港大学社区法网的双语界面中，也将 Legal Action 译为含义更宽泛的法律行动。</p>
+<ul>
+<li><a href="https://www.clic.org.hk/en/topics/Medical_treatment_consent_and_withdrawal/Treatment_performed_without_consent/Legal_action_in_tort">A. Legal Action in Tort</a></li>
+<li><a href="https://www.clic.org.hk/cn/topics/Medical_treatment_consent_and_withdrawal/Treatment_performed_without_consent/Legal_action_in_tort">A. 因权利遭受侵害而采取法律行动</a></li>
+</ul>
+<p>无独有偶，法律行动也是律师函等语境中的常用词。</p>
+<ul>
+<li>在中国，发送律师函或警告函并非权利人<a href="https://www.lexology.com/library/detail.aspx?g=c7f3bafe-77f5-414a-9a93-b14e3a5ffe13">提起法律行动</a>的必要前置条件。</li>
+<li>除表明委託人不會輕易放棄自己的權利、已尋找律師協助，及將來亦可能<a href="https://www.justfair.tw/2023/03/27/lawyer-letter-protect-rights/">採取法律行動</a>外，更督促對方審視己身，停止侵害、改正錯誤或履行義務，以防訟累。</li>
+</ul>
+<p>比较 Law Suit 和 Legal Action （备注：以下内容为ChatGPT 生成，仅供参考）</p>
+<p>In the legal realm, &quot;lawsuit&quot; and &quot;legal action&quot; are often used interchangeably, but there are subtle differences in their meanings and contexts.</p>
+<ol>
+<li><strong>Lawsuit</strong>:
+<ul>
+<li>A lawsuit is a formal legal dispute between parties, typically initiated by one party (the plaintiff) against another (the defendant), seeking a legal remedy or compensation for a perceived wrong or harm.</li>
+<li>It refers specifically to the formal process of filing a complaint or petition in a court of law to seek resolution of a legal dispute.</li>
+<li>Lawsuits can cover a wide range of issues, including civil matters (such as personal injury claims, contract disputes, or property disputes) or criminal matters (such as prosecution by the state for violations of criminal law).</li>
+<li>The term &quot;lawsuit&quot; often implies that the dispute has reached a stage where formal legal proceedings have been initiated, and it may involve court appearances, hearings, and potentially a trial.</li>
+</ul>
+</li>
+<li><strong>Legal Action</strong>:
+<ul>
+<li>Legal action is a broader term that encompasses any action taken to enforce or defend legal rights or interests, whether or not it involves formal litigation.</li>
+<li>It includes a wide range of legal proceedings, including lawsuits, but also other forms of dispute resolution such as arbitration, mediation, negotiation, or administrative proceedings.</li>
+<li>Legal action can be initiated by filing a lawsuit, but it can also involve sending demand letters, negotiating settlements, filing administrative complaints, or pursuing alternative dispute resolution methods.</li>
+<li>Unlike a lawsuit, legal action does not necessarily involve court proceedings or litigation. It can encompass various informal and formal methods of resolving disputes or enforcing legal rights.</li>
+</ul>
+</li>
+</ol>
+<p>In summary, while both terms involve legal proceedings, a &quot;lawsuit&quot; specifically refers to a formal legal dispute filed in a court of law, while &quot;legal action&quot; is a broader term encompassing any action taken to enforce or defend legal rights, including but not limited to lawsuits.</p>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何翻译「客户委托律师」中的委托？]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-fan-yi-ke-hu-wei-tuo-lu-shi-zhong-de-wei-tuo/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-fan-yi-ke-hu-wei-tuo-lu-shi-zhong-de-wei-tuo/">
+        </link>
+        <updated>2024-02-23T08:35:46.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="中文含义">中文含义</h2>
+<p>客户委托律师指的是，客户花钱请律师办事。跟装修房屋请装修工人、生病了请医生看病一样，本质上都是客户花钱买产品、买服务。</p>
+<p>在法律实务中，常常看到客户委托律师的表达。例如「AAA律师事务所依法接受客户张三的委托，特指派本所李四律师就BBB事宜出具本律师函」。</p>
+<h2 id="英文平行文本">英文平行文本</h2>
+<h3 id="在英文法律实务中客户委托律师中的委托常用的说法是retain">在英文法律实务中，客户委托律师中的「委托」常用的说法是retain</h3>
+<ul>
+<li>
+<p>如果出现利益冲突，比如律师代理的客户张三和客户李四在同个案件中利益冲突，张三必须另行委托律师。</p>
+<p>In the event such circumstance occurs, the Attorney would not represent Client in matters adverse to another Attorney's client. <a href="https://www.sec.gov/Archives/edgar/data/107687/000010768712000041/exh10ubeebeattorneyretainera.pdf">Client would be required to retain counsel</a> other than the Attorney to represent its interest in such matter.</p>
+</li>
+<li>
+<p>律所跟客户张三明确表述委托范围仅限于公司事务，张三如果有诉讼案件需要另行委托。</p>
+<p>It is understood and agreed that our engagement is limited to the Representation. Please note that if you or any company you may represent is served with a lawsuit, then you should notify us immediately as there are time-sensitive issues that will need to be addressed. <a href="https://www.sec.gov/Archives/edgar/data/1530983/000072174814000515/ex10_4noelagmnt.htm">Should you need or desire to retain us</a> to represent you in any other matter, we will do so under the terms of a separate fee agreement.</p>
+</li>
+<li>
+<p>客户聘请律师的合同，大陆地区通常称为《委托代理协议》<a href="https://www.tjdl.gov.cn/gongkai/zfxxgkzl/zfgbm/dlqwxjd/gknr/zfcg/202211/P020221104322580343287.pdf">《委托代理合同》</a>，也有少数用《聘任合同》的，英文通常称为 <a href="https://www.sec.gov/Archives/edgar/data/1014763/000165495421008976/amar_ex10-1b.htm">Legal Retainer Agreement</a>、Attorney Retainer Agreement 或 <a href="https://www.sec.gov/Archives/edgar/data/1530983/000072174814000515/ex10_4noelagmnt.htm">Attorney Engagement Agreement</a>。</p>
+<ul>
+<li>The purpose of <a href="https://www.sec.gov/Archives/edgar/data/107687/000010768712000041/exh10ubeebeattorneyretainera.pdf">this Attorney Retainer Agreement</a> (“Agreement”) is to set forth our understanding and agreement, pursuant to which I, Raymond M. Beebe (“Beebe” or “Attorney”), have agreed to represent  Winnebago Industries, Inc., (“Client” or “you”) in the following referenced matter(s): all legal matters as requested by Client's General Counsel or other members of the executive management team (“Matters”).</li>
+<li>When a company goes into business with a client, <a href="https://www.clio.com/blog/engagement-letter/">an engagement letter puts the parameters of the relationship into writing</a>. A strong engagement letter gives clients clear boundaries of what they can expect while also protecting the business from misunderstandings—especially when it comes to lawyers and their clients.</li>
+</ul>
+</li>
+</ul>
+<h2 id="其他想法">其他想法</h2>
+<h3 id="关于委托代理协议">关于《委托代理协议》</h3>
+<p>《委托代理协议》这个名称中包含委托和代理，在这个语境中是重复的，【客户委托律师】和【律师代理客户】是从两个方向说同一件事。有点类似 any and all 或者 null and void 这种传统的法律同义复词（doublet 或 synonym string ）。</p>
+<p>而且《委托代理协议》光看名字也不能看出是不是客户和律师签订的合同，不如英文的 Attorney Retainer Agreement 或 Attorney Engagement Agreement 来的直白，看名字就知道跟律师（Attorney）有关。除了法律业内人士能秒懂，其他人就不好说了。</p>
+<p>实务中，也有使用《聘任合同》来指代类似合同的，比如《荆州市人民政府法律顾问法律专家聘任合同》，就是荆州市政府聘请律师的合同。然而，也有用《律师事务所律师聘用合同》来指代律师事务所和律师签订的劳动合同，等同于公司和员工签的雇佣合同。劳动合同（Employment Agreement）和《委托代理协议》是有很大的区别的，两者不能混同，大陆地区甚至有专门的法律《劳动合同法》来规定劳动关系。</p>
+<p>具体到翻译时，只能具体情况具体分析，根据合同的本质来确定对应的译文。</p>
+<h3 id="类似合同的翻译">类似合同的翻译</h3>
+<p>如何翻译下列合同名称：专项法律服务合同、常年法律服务协议、非诉委托代理合同、诉讼委托代理合同？</p>
+<h4 id="专项法律服务合同-vs-常年法律服务协议">专项法律服务合同 VS 常年法律服务协议</h4>
+<p>专项法律服务合同和常年法律服务协议本质上是一样的，区别是前者是一次性的服务，后者是长期的。但是英文中没有特别强调这个差异，合同名称都可以用 retainer agreement 来表示，具体的期限要看合同期限条款。</p>
+<p>In contract law and legal practice, the agreement between a client and a lawyer for the purpose of retaining the lawyer's services is commonly referred to as a &quot;retainer agreement&quot; or simply a &quot;retainer.&quot; This agreement outlines the terms of the engagement, including the scope of legal services to be provided, the fees and billing structure, and other important terms and conditions.</p>
+<p>While retainers can sometimes involve ongoing or recurring services, they can also be structured as one-time agreements for a specific project or legal matter. In such cases, it's still common to use the term &quot;retainer agreement&quot; to refer to the initial contract establishing the attorney-client relationship, even if the engagement is limited in duration or scope.</p>
+<h4 id="非诉委托代理合同-vs-诉讼委托代理合同">非诉委托代理合同 VS 诉讼委托代理合同</h4>
+<p>同上，在英文法律实务中，没有特意用不同的名词来区分「非诉委托代理合同」和「诉讼委托代理合同」，合同名称都可以用 retainer agreement 来表示，具体的服务内容要看合同条款。「诉讼委托代理合同」也可以视合同内容，译为 legal services agreement 或者 consulting agreement。</p>
+<p>For a contract between a client and a lawyer regarding litigation matters, it's commonly referred to as a &quot;retainer agreement&quot; or &quot;engagement agreement.&quot; This document outlines the scope of legal services to be provided, the fee structure, responsibilities of both parties, and other pertinent details related to the litigation.</p>
+<p>For a contract between a client and a lawyer for non-litigation matters, it might be termed a &quot;legal services agreement,&quot; &quot;consulting agreement,&quot; or &quot;engagement agreement.&quot; This contract delineates the nature of the legal services to be provided, the fees, the duration of the engagement, and any other relevant terms specific to the non-litigation matter at hand.</p>
+<h2 id="参考资料">参考资料</h2>
+<ol>
+<li><a href="http://www.flrchina.com/002/0099.htm">法律语言的冗长与冗余</a>，刘蔚铭</li>
+<li><a href="https://law.asia/any-and-all/">Any and All</a>, Andrew Godwin</li>
+<li><a href="https://www.clio.com/blog/engagement-letter/">Engagement Letters 101: What Your Law Firm Needs to Know</a></li>
+</ol>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个人的字幕组]]></title>
+        <id>https://joeythetranslator.github.io/post/yi-ge-ren-de-zi-mu-zu/</id>
+        <link href="https://joeythetranslator.github.io/post/yi-ge-ren-de-zi-mu-zu/">
+        </link>
+        <updated>2024-02-21T08:25:10.000Z</updated>
+        <content type="html"><![CDATA[<p>标准流程</p>
+<ol>
+<li>在 Youtube 观看视频，找有意思的视频来翻译</li>
+<li><a href="https://ytshorts.savetube.me/10">一键下载</a>不带字幕的生肉视频</li>
+<li><a href="https://downsub.com/">一键下载</a>英文字幕和自动生成的中文字幕（下载中文字幕是为了后续做MTPE）</li>
+<li>用 <a href="https://github.com/SubtitleEdit/subtitleedit/releases">Subtitle Edit</a> 同时打开英文字幕、中文字幕和视频文件调整时间轴。因为自动生成的英文字幕断句都有问题，需要重新调整时间轴</li>
+<li>完成时间轴的调整后，在Subtitle 打开翻译模式，开始英译中，同时记录译者注</li>
+<li>完成翻译后。关闭软件，重新用 Subtitle Edit 打开中文字幕，在压制界面预览，没有问题再压制硬字幕</li>
+<li>用<a href="https://www.capcut.cn/">剪映专业版</a>添加水印，导出</li>
+<li>上传到社交平台，包括B站、小红书、微信公众号等</li>
+</ol>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何翻译兜底条款?]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-fan-yi-dou-di-tiao-kuan/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-fan-yi-dou-di-tiao-kuan/">
+        </link>
+        <updated>2024-02-18T08:57:57.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="结论">结论</h2>
+<p>兜底条款可以译为 catch-all provisions 或者 open-ended provisions，前者更为常见。</p>
+<h2 id="什么是兜底条款">什么是兜底条款？</h2>
+<p>在列举式文本中的最后一个概括条款，指暂时未出现、或者未能想到的其他情形。</p>
+<p><a href="https://www.spp.gov.cn/spp/ztk/dfld/2017dfld/dfld98_5070/ywtt/201708/t20170801_197310.shtml">刑法中的兜底条款，是指刑法在无法穷尽法条需要描述之情形时所规定的具有防止犯罪行为人逃脱法网功能的条款，具有抽象性、模糊性和概括性等特征，在刑法分则中往往以“其他……”方式对列举事项作总括性规定。</a></p>
+<p>例如，<a href="https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3OTZhNjM2YTAxNzk4MjJhMTk2NDBjOTI%3D">2020《刑法》</a>第225条列举了非法经营罪的4种情形，前3种是具体的行为，第4种的概括性的兜底条款。</p>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1708246729219.png" alt="" loading="lazy"></figure>
+<h2 id="英文平行文本">英文平行文本</h2>
+<p>在 Model Business Corporation Act (2016 Revision) 中，将兜底条款称为  catch-all。</p>
+<ul>
+<li>The list of documents in section 1.22 includes all documents that are authorized to be filed with the secretary of state under the Act. The catch-all in the last item of the list will apply to any document for which a state does not establish a specific filing fee.</li>
+</ul>
+<p>类似的，Kirkland &amp; Ellis 律所在其<a href="https://www.kirkland.com/publications/kirkland-manda-update/2019/10/overlapping-general-and-specific-contract-terms">通讯文章</a>中，将兜底条款称为  catch-all provisions。</p>
+<ul>
+<li>The <em>Reynolds</em> case highlights the importance of not unduly relying on catch-all provisions to “clean up” leftovers from more specific provisions — and conversely not assuming that exclusions from a specific provision still will be picked up by the general provision — because of the ambiguity as to which term governs.</li>
+</ul>
+<p>而在另一家律所的<a href="https://stubbsalderton.com/foreseeability-standard-for-open-ended-catch-all-provisions/">法律通讯</a>中，则将兜底条款称为 “open-ended” or “catch all” sentence。</p>
+<ul>
+<li>Many agreements list a number of events and then end with an “open-ended” or “catch all” sentence that says something like “… or anything else whatsoever that prevents performance.”</li>
+</ul>
+<h2 id="参考资料">参考资料</h2>
+<ol>
+<li><a href="https://www.spp.gov.cn/spp/ztk/dfld/2017dfld/dfld98_5070/ywtt/201708/t20170801_197310.shtml">遵循三项规则准确适用刑法兜底条款</a>，成都铁路运输检察院</li>
+<li><a href="https://www.kirkland.com/publications/kirkland-manda-update/2019/10/overlapping-general-and-specific-contract-terms">Reconciling Overlapping General and Specific Contract Terms</a>, Kirkland &amp; Ellis</li>
+<li><a href="https://stubbsalderton.com/foreseeability-standard-for-open-ended-catch-all-provisions/">Foreseeability Standard For &quot;Open-Ended&quot; - &quot;Catch-All&quot; Provisions</a></li>
+<li><a href="https://www.lexology.com/library/detail.aspx?g=70de544c-3192-4465-b54f-3f612205a63b">“Catch-All” Can’t Catch ‘Em All: Seventh Circuit Finds Coverage for a BIPA Claim Despite Catch-All Provision in Policy’s Statutory Violation Exclusion</a></li>
+</ol>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国五个政府部门联合发布《货物合规审查》]]></title>
+        <id>https://joeythetranslator.github.io/post/mei-guo-wu-ge-zheng-fu-bu-men-lian-he-fa-bu-lesslesshuo-wu-he-gui-shen-cha-greatergreater/</id>
+        <link href="https://joeythetranslator.github.io/post/mei-guo-wu-ge-zheng-fu-bu-men-lian-he-fa-bu-lesslesshuo-wu-he-gui-shen-cha-greatergreater/">
+        </link>
+        <updated>2024-02-17T13:25:52.000Z</updated>
+        <content type="html"><![CDATA[<p>2023年12月11日，美国五个政府部门联合发布《货物合规审查》（<a href="https://ofac.treasury.gov/media/932391/download?inline">Know Your Cargo: Reinforcing Best Practices to Ensure the Safe and Compliant Transport of Goods in Maritime and Other Forms of Transportation</a>），以下为《货物合规审查》的中文简介，仅供参考。</p>
+<h1 id="1-航运公司逃避制裁和出口管制的可疑行为">1. 航运公司逃避制裁和出口管制的可疑行为</h1>
+<ul>
+<li>篡改船舶定位数据或船舶识别数据</li>
+<li>伪造货物信息或船舶单据</li>
+<li>夜间或在高风险区域实施船对船转运</li>
+<li>航行异常或出现异常航行路线</li>
+<li>经常变更船舶注册信息</li>
+<li>故意复杂化船舶所有权和管理方式</li>
+</ul>
+<h1 id="2-合规最佳实践">2. 合规最佳实践</h1>
+<ul>
+<li>制定制裁和出口管制合规项目</li>
+<li>设立定位监控，将相关条款写入合同</li>
+<li>实施客户尽调</li>
+<li>实施供应链尽调</li>
+<li>分享行业信息</li>
+</ul>
+<h1 id="3-美国政府机关打击违法行为的例子">3. 美国政府机关打击违法行为的例子</h1>
+<ul>
+<li>
+<p>刑事指控</p>
+</li>
+<li>
+<p>没收</p>
+</li>
+<li>
+<p>行政执法</p>
+</li>
+</ul>
+<h2 id="相关的行业术语">相关的行业术语</h2>
+<ul>
+<li>nefarious actors, malign actors</li>
+<li>proscribed actors</li>
+<li>illicit conduct</li>
+<li>risk profile</li>
+<li>implement rigorous, risk-based internal compliance programs</li>
+<li>transshipment point</li>
+<li>front company</li>
+<li>principal parties in interest</li>
+<li>corporate probation</li>
+<li>freight forwarder</li>
+</ul>
+<h2 id="参考信息">参考信息</h2>
+<ol>
+<li><a href="https://sanctionsnews.bakermckenzie.com/us-issues-know-your-cargo-joint-compliance-note-to-maritime-and-other-transportation-industries/">US Issues “Know Your Cargo” Joint Compliance Note to Maritime and Other Transportation Industries</a>, Baker Mckenzie</li>
+<li><a href="https://mp.weixin.qq.com/s/KKJH86E8fIMS1ECNTZWAZQ">美国政府五部门联合发布《国际货物运输合规指南》</a></li>
+</ol>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何翻译闲鱼循环商店？]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-fan-yi-xian-yu-xun-huan-shang-dian/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-fan-yi-xian-yu-xun-huan-shang-dian/">
+        </link>
+        <updated>2024-01-25T06:32:20.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="结论">结论</h2>
+<p>闲鱼循环商店应当译为 Xianyu Reuse Store 或 Xianyu Second Hand Store。闲鱼官方的现有翻译是错误的。</p>
+<h2 id="缘起">缘起</h2>
+<p>2024年1月，闲鱼首家线下商店将于杭州开业，以社区商店的形式，<a href="https://sspai.com/post/86018">为社区周边两公里的消费者提供服务，服务内容包括全品类闲置寄卖，商品包含低价值小物件、高价值服饰箱包等，消费者可直接前往商店购物，也可将闲置物品挂置在店内以社区爱心捐赠的形式免费送出。</a></p>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1706164395493.png" alt="" loading="lazy"></figure>
+<p>（信源和图片来自<a href="https://sspai.com/post/86018">少数派</a>）</p>
+<p>如上图，线下店的中文叫闲鱼循环商店，英文译成 Xianyu Recycle Shop。看到这个译文，作为译者的职业病又犯了。</p>
+<h2 id="分析和查证">分析和查证</h2>
+<p>直觉告诉我 Xianyu Recycle Shop 可能是错误的直译。根据<a href="https://en.wiktionary.org/wiki/recycle_shop">维基百科的 Recycle Shop 词条</a>，Recycle Shop 是从日语中借入的（Borrowed from Japanese），再加上日本并非英语母语国家，因此用 Recycle Shop 来翻译循环商店很可能是错误的表达。</p>
+<p>此外，Recycle Shop 通常用来指在店铺中，通过手工，将“废品”变废为宝、回收利用的店铺。例如 <a href="https://tinkerlab.com/boston-childrens-museum-pop-recycle-shop/">Boston Children’s Museum Pop-Up Recycle Shop</a>。这和出售闲置物品的含义不同，闲置物品的买家通常是为了继续使用而购买，比如买二手书是为了看，而不是买来做纸浆。</p>
+<p>生活在大陆地区的人，大都知道闲鱼是买卖二手商品的平台，闲鱼循环商店也有这个含义。所谓的闲置商品多数都是二手商品。</p>
+<p>类似的商业经营形式和店铺，在英语中有很多表达方式，在日常使用中有时会混用，但这些表达含义存在差异，比如 vintage shop/store, thrift shop/store, second hand store, reuse store 等，还有 stooping 活动。</p>
+<ol>
+<li>
+<p>Vintage shop 店中通常提供知名的、高端的品牌的二手，例如古驰（Gucci）。</p>
+<p><a href="https://www.linkedin.com/pulse/what-difference-between-thrift-stores-vintage-shops-plus-vera-lovici">Vintage shops offer rare, specially curated items. Sometimes those items are by well-known brands, some high-end (Gucci, Vivienne Westwood, Oscar de la Renta), some less so (Tommy Hilfiger and Levi's). From a business perspective, brands are particularly crucial to a vintage shop's' stock.</a></p>
+</li>
+<li>
+<p>Thrift store 店中通常售卖二手衣物、图书、家具，但是为了慈善、公益目的。</p>
+<p>thrift store is <a href="https://dictionary.cambridge.org/us/dictionary/english/thrift-store">a store that sells used things such as clothes, books, and furniture, typically in order to raise money for a charity</a></p>
+</li>
+<li>
+<p>Second hand store 也是售卖二手商品的店，店如其名，没有隐含其他含义，如下图</p>
+</li>
+</ol>
+<figure data-type="image" tabindex="2"><img src="https://joeythetranslator.github.io/post-images/1706164419669.png" alt="" loading="lazy"></figure>
+<ol start="4">
+<li>
+<p>Reuse store 也是售卖二手商品的店铺，但更强调商品的物尽其用，隐含可持续发展、环保之义。</p>
+<p>Stop by our Drop &amp; Shop <a href="https://rcwaste.org/drop-and-shop-reuse-store">Reuse Stores</a> to pick up FREE paints and other household products for your next home or vehicle maintenance task. All products are inspected and made available to other customers for FREE. Most products are in good condition and sometimes even unopened! Availability of free products varies, but may include: paint, cleaners, pool, spa, lawn care and automotive products.</p>
+</li>
+<li>
+<p>stooping 是“捡垃圾”的活动，张三把不需要的物品摆放在路边，让李四免费拿走利用。 <a href="https://www.instagram.com/stoopingnyc/">One person's trash is another person's treasure!</a></p>
+</li>
+</ol>
+<figure data-type="image" tabindex="3"><img src="https://joeythetranslator.github.io/post-images/1706164430945.png" alt="" loading="lazy"></figure>
+<p>通过比较可以发现，Vintage shop 隐含有闲置商品是知名的、高端的品牌商品之意，Thrift store 隐含有慈善公益之意，Recycle shop 有改变废弃物形态，变废为宝、回收利用之意，都不合适。这几个概念中，只有 Reuse store 和 Second hand store 的含义接近中文本来的含义。</p>
+<p>综上，建议将闲鱼循环商店译为 Xianyu Reuse Store 或 Xianyu Second Hand Store。第二个译法稍微有点长，推荐第一个。</p>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何翻译行政协议？]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-fan-yi-xing-zheng-xie-yi/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-fan-yi-xing-zheng-xie-yi/">
+        </link>
+        <updated>2024-01-18T16:01:54.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="结论">结论</h2>
+<ol>
+<li>常见的行政协议包括房屋征收补偿协议、特许经营协议。在此类语境中，行政协议可以根据其定义，译为 government contracts。</li>
+<li>行政协议不能直译成 Administrative Agreement。英文 Administrative Agreement 的含义和中文的行政协议完全不同。</li>
+</ol>
+<h2 id="行政协议是什么">行政协议是什么？</h2>
+<p>在中国大陆法律实务中，行政协议通常指的是为满足公共利益的需要、实现行政管理目标或者提供公共服务，不以营利为目的，政府行政机关和其他主体签订的协议。</p>
+<p>常见的行政协议包括房屋征收补偿协议、特许经营协议。</p>
+<ol>
+<li>行政协议的主体一方是行政机关，包括行政机关委托第三方签订协议的情形，但不包括行政机关签订的民事合同；</li>
+<li>行政协议的内容应有行政法上的权利义务关系，行政协议内容通常具有行政优益权。</li>
+<li>行政协议是为了公共利益或行政管理，不以营利为目的。</li>
+</ol>
+<p><a href="https://www.zhonglun.com/Content/2021/11-04/1527560268.html">行政协议兼具契约与行政的双重属性。从私法角度考虑，是否签订行政协议取决于社会资本方的意志，通常情况下应遵守合同相对性原则，即不能向协议相对方以外的其他行政主体主张责任，民事诉讼中也较少出现签约主体和诉讼主体分离的情形。从公法角度考虑，行政机关签订行政协议的目的是为了公共利益和政府职能的体现，行政协议诉讼基本沿用行政诉讼的被告确定规则，审查行政机关方是否适格不限于是否具有民法上的“权利能力和行为能力”，还应视其是否享有协议所属领域的行政管理职权。</a></p>
+<h3 id="法律法规">法律法规</h3>
+<p><a href="https://www.court.gov.cn/zixun-xiangqing-207581.html">2020《最高人民法院关于审理行政协议案件若干问题的规定》</a></p>
+<p>第1条 行政机关为了实现行政管理或者公共服务目标，与公民、法人或者其他组织协商订立的具有行政法上权利义务内容的协议，属于行政诉讼法第十二条第一款第十一项规定的行政协议。</p>
+<p><a href="https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NTg1NTBhMGY%3D">2017《中华人民共和国行政诉讼法》</a></p>
+<p>第12条 人民法院受理公民、法人或者其他组织提起的下列诉讼：</p>
+<p>​		……</p>
+<p><u><strong>（十一）认为行政机关不依法履行、未按照约定履行或者违法变更、解除政府特许经营协议、土地房屋征收补偿协议等协议的；</strong></u><br>
+　　（十二）认为行政机关侵犯其他人身权、财产权等合法权益的。<br>
+　　除前款规定外，人民法院受理法律、法规规定可以提起诉讼的其他行政案件。</p>
+<h2 id="常见的错误译法">常见的错误译法</h2>
+<p>中国大陆的<a href="https://law.asia/administrative-agreements-spc-definition-types/">部分执业律师</a>以及<a href="https://lawreview.sjtu.edu.cn/ch/reader/view_abstract.aspx?file_no=20230212&amp;flag=1">部分学者</a>将行政协议直译为 Administrative Agreement，这种译法是错误且不负责任的。理由如下：</p>
+<ol>
+<li>Administrative Agreement 通常由政府机关和其他主体签订，涉及政府监管、环保监管、财务监管、反垄断监管、合规问题等，是政府和<u><strong>有问题的企业</strong></u>签订的协议，有时还会涉及暂缓起诉协议（Deferred Prosecution Agreement, DPA），总体上属于<u><strong>官告民</strong></u>，参见 <a href="https://blog.theodorewatson.com/administrative-agreements-during-suspension-or-debarment/">Administrative agreements during debarment or suspension</a>。而行政协议不涉及这些含义，且涉及行政协议诉讼时，通常是<u><strong>民告官</strong></u>，和 Administrative Agreement 官告民的性质完全不同。参见最高人民法院发布的<a href="https://www.court.gov.cn/zixun/xiangqing/301081.html">第一批</a>、<a href="https://www.court.gov.cn/zixun-xiangqing-355511.html">第二批</a>行政协议诉讼典型案例。</li>
+<li>在政府跨部门合作的语境中，Administrative Agreement 指的是不同政府部门之间签订合作协议。<a href="http://www.procedurallaw.cn/info/1022/3246.htm">由于行政事务的复杂性以及交叉关联的现象逐渐增多，美国联邦行政机关如今较多地使用了“行政协议”(administrative agreement）的方式以增强行政机关之间互相合作，进而使政府运转正常。这些协议主要以备忘录（Letters of Under-standing or Memoranda of Understanding）的形式确定两个以上的行政机关共同工作或者关联工作的界分，共同承担责任；有时甚至还会成立一定的组织（inter-agency）来共同执行法律、完成相关的行政任务。</a>美国跨政府部门的合作实例参见<a href="https://www.nj.gov/drbc/about/regulations/administrative-agreements.html">这里</a>。</li>
+</ol>
+<h2 id="英文平行文本">英文平行文本</h2>
+<p>如前所述，英文 Administrative Agreement 的其中一个含义是政府和<u><strong>有问题的企业</strong></u>签订的协议。</p>
+<p>In accordance with FAR 9.406-3 and when FAPIIS module has this feature, the debarring official shall enter requested information into FAPIIS regarding the results of the <a href="https://www.energy.gov/sites/prod/files/42.16_Reporting_Other_Contractor_Information_into_Federal_Awardee_Performance_and_Integrity_Information_System.pdf">administrative agreement</a> to resolve a debarment proceeding and timely submit this information within 3 business days.</p>
+<p>在中文里，常见的行政协议包括房屋征收补偿协议（condemnation agreement or eminent domain agreement）和特许经营协议 （<a href="https://www.investopedia.com/terms/c/concessionagreement.asp">concession agreement</a>）。然而，英文中并没有一个对应概念，可以同时包含这两种协议。换句话说，英文中没有合同类型可以同时概括房屋征收补偿协议和特许经营协议。</p>
+<p>In the context of U.S. law, a condemnation agreement typically refers to an agreement between a governmental entity and a property owner regarding the acquisition of private property through the power of eminent domain. Eminent domain allows the government to take private property for public use, provided that the property owner receives just compensation.</p>
+<p>On the other hand, a concession agreement typically involves a contractual relationship between a government entity and a private party. This agreement grants the private party the right to operate a specific business or provide certain services on government-owned property. Common examples include concession agreements for operating toll roads, airports, or other public facilities.</p>
+<p>In summary, there isn't a specific umbrella term for agreements that involve both condemnation and concession aspects.</p>
+<p>既然没有一个完全对应的英文概念，就需要另辟蹊径。</p>
+<p>大陆地区的律师、学者讨论行政协议时，通常会谈及另一个概念：行政优益权。<a href="https://www.chinacourt.org/article/detail/2020/09/id/5470924.shtml">行政优益权在行政协议中的典型体现为法律规范赋予行政机关出于公共利益的原因，有突破合同约定，单方变更、解除协议的权力。</a>无独有偶，在涉及 government contracts 时，政府机关通常根据合同约定也享有类似权利。</p>
+<p><a href="https://www.law.cornell.edu/wex/government_contracts">Government contracts contain mandatory clauses which afford the Government special contractual rights, the most important of these being the Changes clause, the Termination for Convenience clause, and the Default clause. These clauses give the government the right to unilaterally change contract terms and conditions or terminate the contract.</a></p>
+<p>除了都具备行政优益权外，government contracts 同样是政府机关和私人部门订立的合同。而政府的存在本来就不是为了政府自身的利益，而是为了公众利益。因此 government contracts 符合公益（而非营利目的）这一点是不言自明的。具体可参见 <a href="https://www.sba.gov/federal-contracting/contracting-guide">Benefits of government contracting</a>。因此，在行政协议和government contracts 之间画上约等号是可行的。需要注意的是，government contracts 的外延比行政协议大得多，政府的民事合同也属于 government contracts。</p>
+<p>综上，在涉及房屋征收补偿协议、特许经营协议等行政协议的语境中，行政协议可以根据其定义，译为 government contracts。在具体的行文表述中，再通过详细的阐述明确其含义。</p>
+<h2 id="参考资料">参考资料</h2>
+<ol>
+<li>2021 <a href="https://www.spp.gov.cn/spp/llyj/202106/t20210616_521471.shtml">行政协议的识别标准及审查判断</a>，检察日报</li>
+<li>2021 <a href="https://www.court.gov.cn/zixun/xiangqing/301081.html">最高人民法院行政协议典型案例（第一批）</a>，最高人民法院</li>
+<li>2022 <a href="https://www.court.gov.cn/zixun-xiangqing-355511.html">最高人民法院发布第二批行政协议诉讼典型案例</a>，最高人民法院</li>
+<li>2034 <a href="https://yuanyulai.blog.caixin.com/archives/266476">司法实践中，如何认定行政协议无效？</a>，袁裕来，浙江之星律师事务所</li>
+<li>2021 <a href="https://www.zhonglun.com/Content/2021/10-26/1558475584.html">行政协议案件之民事、行政法律适用——以解除特许经营协议纠纷为例</a>，中伦律师事务所</li>
+<li>2021 <a href="https://www.zhonglun.com/Content/2021/11-04/1527560268.html">关于特许经营协议纠纷行政诉讼适格被告的确定</a>，中伦律师事务所</li>
+<li>2023 <a href="https://www.dehenglaw.com/CN/tansuocontent/0008/028801/7.aspx?MID=0902">行政协议争议的仲裁路径构想</a>，德恒律师事务所</li>
+<li>2010 <a href="http://www.procedurallaw.cn/info/1022/3246.htm">美国法上的行政协议及其启示</a></li>
+<li>2023 <a href="https://www.bjac.org.cn/news/view?id=4476">PPP协议与行政协议的关系及可仲裁性</a>，北京仲裁委员会</li>
+<li><a href="http://fzzfyjy.cupl.edu.cn/info/1087/7745.htm">论政府特许经营协议</a></li>
+<li><a href="https://blog.theodorewatson.com/administrative-agreements-during-suspension-or-debarment/">Administrative agreements during debarment or suspension</a></li>
+<li><a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Monitoring-Programs/Medicare-FFS-Compliance-Programs/Medical-Review/Downloads/AdminstrativeAgreement.pdf">ADMINISTRATIVE AGREEMENT</a></li>
+<li><a href="https://www.sec.gov/Archives/edgar/data/353394/000119312512363682/d400068dex101.htm">Administrative Agreement</a></li>
+<li><a href="https://epg.modot.org/forms/RW/Chapter%208_Relocation/Condemnation%20Agreement%20other%20than%20Residential%20Property%20236.8.8.3.E.2.pdf">CONDEMNATION AGREEMENT</a></li>
+</ol>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何翻译自律组织？]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-fan-yi-zi-lu-zu-zhi/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-fan-yi-zi-lu-zu-zhi/">
+        </link>
+        <updated>2024-01-17T10:46:14.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="中文概念">中文概念</h2>
+<p>通俗地说，自律组织是自己管理自己的组织机构，例如行业协会。</p>
+<p><a href="http://www.csrc.gov.cn/csrc/c100211/c1452108/content.shtml">什么是中国证券业协会？</a></p>
+<p>证券业协会是证券业的自律性组织，是社会团体法人。中国证券业协会正式成立于1991年8月28日，是依法注册的具有独立法人地位的、由经营证券业务的金融机构自愿组成的行业性自律组织。</p>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1705488403992.png" alt="" loading="lazy"></figure>
+<p>图片来源在<a href="http://www.csrc.gov.cn/zhejiang/c105577/common_list.shtml?channelid=cb928879e696428fa4924ac0011464c6">这里</a>。</p>
+<h2 id="英文概念">英文概念</h2>
+<p>A <a href="https://www.investopedia.com/terms/s/sro.asp">self-regulatory organization (SRO)</a> is an entity such as a non-governmental organization, which has the power to create and enforce stand-alone industry and professional regulations and standards on its own.</p>
+<p>Who Regulates the Stock Market?</p>
+<p>The principal regulator of the stock market in the U.S. is the Securities and Exchange Commission (SEC), established in 1934 by the Securities Exchange Act. It oversees the securities exchanges and securities firms as well as <a href="https://www.investopedia.com/ask/answers/063015/what-are-some-major-regulatory-agencies-responsible-overseeing-financial-institutions-us.asp">self-regulatory organizations</a> such as the Financial Industry Regulatory Authority (FINRA).</p>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杂记 #20240117]]></title>
+        <id>https://joeythetranslator.github.io/post/za-ji-20240117/</id>
+        <link href="https://joeythetranslator.github.io/post/za-ji-20240117/">
+        </link>
+        <updated>2024-01-16T17:00:47.000Z</updated>
+        <content type="html"><![CDATA[<p>今天阅读了吕晓飞律师发布的法律资讯，内容涉及2023年12月18日<a href="https://mp.weixin.qq.com/s/z4tdHaHaJ8UEquUM10yyOg">美国政府更新《兼并指南》</a>。虽然文章的推荐阅读时间为6分钟，但由于自己并没有机会接触并购的一线实务工作，对于很多概念还是没有办法秒懂。比如：</p>
+<ol>
+<li>什么是密切竞争者？</li>
+<li>什么是潜在进入？</li>
+<li>什么是卷入式 (roll-up) 兼并？</li>
+</ol>
+<p>于是直接检索 FTC DOJ M&amp;A 三个关键词，找到了关于这份《兼并指南》的发布通告（<a href="https://www.ftc.gov/news-events/news/press-releases/2023/12/federal-trade-commission-justice-department-release-2023-merger-guidelines">release</a>）和<a href="https://www.ftc.gov/reports/merger-guidelines-2023">原文</a>。通告中谈及了美国政府更新这份指南的过程、重要性等，有用的信息似乎并不多。看来还是只能啃一共51页的原文了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用 Potplayer 收看直播节目？]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-shi-yong-potplayer-shou-kan-zhi-bo-jie-mu/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-shi-yong-potplayer-shou-kan-zhi-bo-jie-mu/">
+        </link>
+        <updated>2024-01-11T10:22:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>刷B站的时候，很偶然地知道了可以用 Potplayer 收看直播信号。但是在B站搜索相关教程，出来的视频都是口水话，用Bing也搜不出什么有用的教程。换谷歌以后，第一条就很有用，简单直接。虽然老是说现在是图片视频的时代，但文字的信息密度仍然是最高的，大部分学习还是要通过文字来完成。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>刷B站的时候，很偶然地知道了可以用 Potplayer 收看直播信号。但是在B站搜索相关教程，出来的视频都是口水话，用Bing也搜不出什么有用的教程。换谷歌以后，第一条就很有用，简单直接。虽然老是说现在是图片视频的时代，但文字的信息密度仍然是最高的，大部分学习还是要通过文字来完成。</p>
+<!-- more -->
+<h3 id="操作步骤sop">操作步骤（SOP）</h3>
+<ol>
+<li>
+<p>下载 Potplayer 软件</p>
+</li>
+<li>
+<p>在<a href="https://github.com/iptv-org/iptv/blob/master/README.md">这里</a>复制直播源（playlist）</p>
+</li>
+<li>
+<p>打开 Potplayer</p>
+</li>
+</ol>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1704968623654.png" alt="" loading="lazy"></figure>
+<ol start="4">
+<li>在弹窗中粘贴播放源，等待加载即可。</li>
+</ol>
+<h3 id="使用体验">使用体验</h3>
+<p>按照以上步骤在笔记本电脑添加直播源。笔记本的CPU是R7 5800H，看了一会风扇噪音就上来了。</p>
+<h3 id="参考信源">参考信源</h3>
+<ol>
+<li><a href="https://qiyuan-z.github.io/2020/06/13/Potplayer%E6%B7%BB%E5%8A%A0%E7%9B%B4%E6%92%AD%E6%BA%90/">Potplayer 添加直播源</a></li>
+</ol>
+]]></content>
+    </entry>
+</feed>
