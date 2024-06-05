@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>ChatGPT使用尝试 | Joey&#39;s Blog</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://joeythetranslator.github.io/favicon.ico?v=1717578286692">
+<link rel="stylesheet" href="https://joeythetranslator.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="更新日期：2023年7月8日
+问题
+今天接到字节跳动的翻译任务，文件里有个概念不是很好理解。隐去个人信息后，如下：
+
+张三，工龄11年，当前管幅200+；
+李四（抖音-XXX负责人）：工龄近9年，当前管幅30+；
+
+在语境中，可以猜出管幅是..." />
+    <meta name="keywords" content="ChatGPT,Google,搜索引擎,人工智能,AI,简明汉语,观点,法律检索,检索技巧,办公技巧" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://joeythetranslator.github.io">
+        <img src="https://joeythetranslator.github.io/images/avatar.png?v=1717578286692" class="site-logo">
+        <h1 class="site-title">Joey&#39;s Blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me" class="site-nav">
+            自我介绍
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me-english" class="site-nav">
+            About Me
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/work-product-sample" class="site-nav">
+            Work Product Sample
+          </a>
+        
+      
+        
+          <a href="/" class="site-nav">
+            Homepage
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            Tags
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            Archives
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/zhuan-ti-yan-jiu-wai-shang-tou-zi" class="site-nav">
+            Foreign Investment
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/he-gui" class="site-nav">
+            Compliance
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/plain-chinese-jian-ming-zhong-wen" class="site-nav">
+            Plain Chinese
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/table-of-contents" class="site-nav">
+            Civil Code of the PRC
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/min-fa-dian-cuo-wu-he-ji" class="site-nav">
+            民法典翻译错误合集
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      This is a blog about using American English to translate Chinese stuff, in particular, the legal and business things about China.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://joeythetranslator.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">ChatGPT使用尝试</h2>
+            <div class="post-date">2023-03-21</div>
+            
+            <div class="post-content" v-pre>
+              <p>更新日期：2023年7月8日</p>
+<h1 id="问题">问题</h1>
+<p>今天接到字节跳动的翻译任务，文件里有个概念不是很好理解。隐去个人信息后，如下：</p>
+<ul>
+<li>张三，工龄11年，当前管幅200+；</li>
+<li>李四（抖音-XXX负责人）：工龄近9年，当前管幅30+；</li>
+</ul>
+<p>在语境中，可以猜出管幅是个企业管理概念，但具体指什么不清楚。推测是管理幅度的缩写，很符合字节跳动说黑话的习惯。</p>
+<h1 id="检索开始">检索开始</h1>
+<p>在谷歌中尝试精确检索&quot;管幅&quot;，检索结果只有4页，<strong>说明这个概念几乎没人用</strong>。而且大部分都明显和企业管理无关。</p>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1679418336852.png" alt="" loading="lazy"></figure>
+<p>此时谷歌作用不大，转而使用ChatGPT。在ChatGPT给出解释指令，“作为企业管理专家，请解释什么是管幅。不超过500个字，并给出参考链接。”</p>
+<figure data-type="image" tabindex="2"><img src="https://joeythetranslator.github.io/post-images/1679418343538.png" alt="" loading="lazy"></figure>
+<p>乍看一下好像很有道理，但是解释地很宽泛、啰嗦，像是政府公文的行文风格，<strong>说了很多但都没有切中要害</strong>。并不能肯定这个解释是否准确。</p>
+<p>与此同时，ChatGPT给出了两个链接。第一个是真实存在的，但是内容是关于波特五力分析（Porter Five Forces Analysis），和span of control没什么直接联系。第二个链接是虚构的。但是我注意到给出的链接都提到了span of control。于是又用谷歌精确检索span of control，在<a href="https://en.wikipedia.org/wiki/Span_of_control">维基百科的词条</a>中得到验证。</p>
+<p>Span of control, also called span of management, is a term used in business management, particularly human resource management. The term refers to the number of subordinates or direct reports a supervisor is responsible for.</p>
+<p>根据维基百科的解释，span of control指的是在组织中，上级直接管理的下级人数。这个概念和管理幅度或控制幅度的中文吻合。</p>
+<p>另外，根据维基百科中的描述，控制幅度（span of control）的理论源于 V. A. Graicunas 的研究。</p>
+<h1 id="检索结束">检索结束</h1>
+<h1 id="经验总结">经验总结</h1>
+<p>在这次的检索过程中，ChatGPT确实发挥了作用，给了使用者找到证据的提示。然而，我们也可以看到他有胡编乱造的倾向和能力。作为解决问题的初始工具有很大价值，但是更重要的是，使用者要有判断和验证的能力，否则很可能被唬住。</p>
+<p>要判断一个人有多大的本事，你必须比他更厉害。</p>
+<p>这个原则同样适用于使用ChatGPT的过程，人工智能生成的内容（AIGC）无穷无尽，但本质上都是把现有的数据拼凑起来。既然是拼凑的过程，就一定会存在添加过时的、失效的、不准确的信息。如果你不是业内专家，也没有任何背景知识，你如何判断AIGC的质量高低？</p>
+<p>ChatGPT 只是工具，不能代替人类的思考和内化的知识。普通人可以学会使用这个工具，帮助自己思考，仅此而已。参见韩林涛<a href="https://mp.weixin.qq.com/s/7HzbhqoX72xuqD6P82fX1Q">《写给北语高翻同学们的ChatGPT类工具使用要求》</a>。</p>
+<p>把工具用好不丢人，但不要用工具害人，包括但不限于说车轱辘话、写软文等。</p>
+<h1 id="相关阅读">相关阅读</h1>
+<ol>
+<li><a href="https://mp.weixin.qq.com/s/7HzbhqoX72xuqD6P82fX1Q">《写给北语高翻同学们的ChatGPT类工具使用要求》</a>，韩林涛</li>
+<li><a href="https://zuzhijinhualun.fireside.fm/8">组织进化论 E08｜我们做了一个黑话翻译器</a></li>
+<li><a href="https://sspai.com/post/78593">ChatGPT 的基本功：13 种 Prompt 用法</a></li>
+<li>Github <a href="https://github.com/f/awesome-chatgpt-prompts">awesome-chatgpt-prompts</a></li>
+<li><a href="https://medium.com/dean-lin/%E5%A6%82%E4%BD%95%E5%AF%AB%E5%87%BA%E6%9C%89%E6%95%88%E7%9A%84-prompt-%E7%8D%B2%E5%BE%97%E6%9B%B4%E5%A5%BD%E7%9A%84-chatgpt-%E5%9B%9E%E8%A6%86-b9dc0bb56b68">如何寫出有效的 Prompt，獲得更好的 ChatGPT 回覆</a></li>
+<li><a href="https://www.promptingguide.ai/">Prompt Engineering Guide</a></li>
+</ol>
+<h1 id="关于作者">关于作者</h1>
+<ul>
+<li><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/内容创作者，法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译。</li>
+<li>联系方式：<a href="%22mailto:JoeytheTranslator@foxmail.com%22">joeythetranslator@foxmail.com</a></li>
+<li>版权声明：自由转载-非商用-非衍生-保持署名（<a href="https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh">创意共享3.0许可证</a>）</li>
+<li>欢迎参与<a href="https://joeythetranslator.github.io/post/du-zhe-ji-hua/">《读者计划》</a>，或来信交流。文章为本人的观点，并非事实，更不构成法律意见。</li>
+<li>For questions, comments, suggestions, etc. please email me at <a href="%22mailto:JoeytheTranslator@foxmail.com%22">joeythetranslator@foxmail.com</a>. As always, the views expressed herein are mine alone and do not contain legal advice.</li>
+</ul>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://joeythetranslator.github.io/tag/mpOGP64xO/" class="tag">
+                    ChatGPT
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/TRGccjGnzp/" class="tag">
+                    Google
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/x-k2MgbmXO/" class="tag">
+                    搜索引擎
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/MztR5ZQdxh/" class="tag">
+                    人工智能
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/1lhMyg1C4f/" class="tag">
+                    AI
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/0K2WfwZoU5/" class="tag">
+                    简明汉语
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/t7aBp5xSy/" class="tag">
+                    观点
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/6fe3omuEG/" class="tag">
+                    法律检索
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/j0QSUTZ9u/" class="tag">
+                    检索技巧
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/_Gvq5ui6l/" class="tag">
+                    办公技巧
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://joeythetranslator.github.io/post/mi-ni-you-er-yuan/">
+                  <h3 class="post-title">
+                    迷你幼儿园
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>

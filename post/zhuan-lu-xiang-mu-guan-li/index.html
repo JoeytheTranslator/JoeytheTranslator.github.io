@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>转录项目管理 | Joey&#39;s Blog</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://joeythetranslator.github.io/favicon.ico?v=1717578286692">
+<link rel="stylesheet" href="https://joeythetranslator.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="以下为翻译之前的项目转录管理实操。
+适用场景：客户发来不可编辑的PDF文档，例如手机拍摄/扫描的照片转成的PDF文件。需要先进行转录，提供准确断句的纯文本文件，以便提高后续的翻译速度、准确性。
+
+可执行SOP
+
+
+ 联系转录人员，例如发送微..." />
+    <meta name="keywords" content="译前准备,转录" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://joeythetranslator.github.io">
+        <img src="https://joeythetranslator.github.io/images/avatar.png?v=1717578286692" class="site-logo">
+        <h1 class="site-title">Joey&#39;s Blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me" class="site-nav">
+            自我介绍
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me-english" class="site-nav">
+            About Me
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/work-product-sample" class="site-nav">
+            Work Product Sample
+          </a>
+        
+      
+        
+          <a href="/" class="site-nav">
+            Homepage
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            Tags
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            Archives
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/zhuan-ti-yan-jiu-wai-shang-tou-zi" class="site-nav">
+            Foreign Investment
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/he-gui" class="site-nav">
+            Compliance
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/plain-chinese-jian-ming-zhong-wen" class="site-nav">
+            Plain Chinese
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/table-of-contents" class="site-nav">
+            Civil Code of the PRC
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/min-fa-dian-cuo-wu-he-ji" class="site-nav">
+            民法典翻译错误合集
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      This is a blog about using American English to translate Chinese stuff, in particular, the legal and business things about China.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://joeythetranslator.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">转录项目管理</h2>
+            <div class="post-date">2023-12-31</div>
+            
+            <div class="post-content" v-pre>
+              <p>以下为翻译之前的项目转录管理实操。</p>
+<p>适用场景：客户发来不可编辑的PDF文档，例如手机拍摄/扫描的照片转成的PDF文件。需要先进行转录，提供准确断句的纯文本文件，以便提高后续的翻译速度、准确性。</p>
+<!-- more -->
+<h2 id="可执行sop">可执行SOP</h2>
+<ul class="contains-task-list">
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-575604"><label class="task-list-item-label" for="task-item-575604"> 联系转录人员，例如发送微信消息</label></p>
+<p>Best Practice：We have a new project to transcribe. Will you be able to help today? If so, let us know your work schedule today.</p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8798902"><label class="task-list-item-label" for="task-item-8798902"> 用Abbyy转换PDF和图片。如果Abbyy的中文转换质量差，可以使用白描。</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2851492"><label class="task-list-item-label" for="task-item-2851492"> 检查页边距，并将页边距改为常规。</label></p>
+<p>原因：Abbyy在将PDF转Word后都会将页边距改为极窄，为避免出现多人修改的问题，应在最初即做统一调整</p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4812708"><label class="task-list-item-label" for="task-item-4812708"> 如果页眉页脚有规律可循，并且可以在最后合并文件中快速处理的，可以删除所有页眉页脚。并且要求转录人员不要新增</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2981656"><label class="task-list-item-label" for="task-item-2981656"> 用word的分割文件功能分割原文件</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8294418"><label class="task-list-item-label" for="task-item-8294418"> 发送分割后的文件、原文件给转录人员（如有项目指南和模板，一并发送）</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-986416"><label class="task-list-item-label" for="task-item-986416"> 派发任务时给出建议的返稿时间。</label></p>
+<p>Best Practice：请在今天下午3点前交稿，如果预计会迟于交稿时间，请及时联系我。</p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5569261"><label class="task-list-item-label" for="task-item-5569261"> 预计进度进行到一半时，以及deadline半小时前询问下属进度</label></p>
+</li>
+<li class="task-list-item">
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8696030"><label class="task-list-item-label" for="task-item-8696030"> 检查单独每个文件，没有问题了再合并，避免出现合并后出现问题。可能出现的问题：某个转录人员使用了”分页符-连续“导致合并后页脚混乱。</label></p>
+</li>
+</ul>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://joeythetranslator.github.io/tag/BrgahWZr_/" class="tag">
+                    译前准备
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/Qt4znAZABM/" class="tag">
+                    转录
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://joeythetranslator.github.io/post/he-yue-huan-shi-he-tong/">
+                  <h3 class="post-title">
+                    合约还是合同？
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>

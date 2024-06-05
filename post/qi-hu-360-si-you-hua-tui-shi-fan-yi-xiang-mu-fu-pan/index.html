@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>奇虎360私有化退市翻译项目复盘 | Joey&#39;s Blog</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://joeythetranslator.github.io/favicon.ico?v=1717578286692">
+<link rel="stylesheet" href="https://joeythetranslator.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="美股退市机制
+自愿退市
+私有化、并购等形式。因为股价无法体现公司真实价值或希望回归A股、港股等其他市场等因素，部分美股上市公司也会进行自愿退市
+（常见的）13e-3规则私有化退市（going private）
+
+
+一步式合并（合并）
+买方（..." />
+    <meta name="keywords" content="项目复盘笔记,并购,私有化,退市,英译中" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://joeythetranslator.github.io">
+        <img src="https://joeythetranslator.github.io/images/avatar.png?v=1717578286692" class="site-logo">
+        <h1 class="site-title">Joey&#39;s Blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me" class="site-nav">
+            自我介绍
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me-english" class="site-nav">
+            About Me
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/work-product-sample" class="site-nav">
+            Work Product Sample
+          </a>
+        
+      
+        
+          <a href="/" class="site-nav">
+            Homepage
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            Tags
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            Archives
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/zhuan-ti-yan-jiu-wai-shang-tou-zi" class="site-nav">
+            Foreign Investment
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/he-gui" class="site-nav">
+            Compliance
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/plain-chinese-jian-ming-zhong-wen" class="site-nav">
+            Plain Chinese
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/table-of-contents" class="site-nav">
+            Civil Code of the PRC
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/min-fa-dian-cuo-wu-he-ji" class="site-nav">
+            民法典翻译错误合集
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      This is a blog about using American English to translate Chinese stuff, in particular, the legal and business things about China.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://joeythetranslator.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">奇虎360私有化退市翻译项目复盘</h2>
+            <div class="post-date">2024-04-09</div>
+            
+            <div class="post-content" v-pre>
+              <h2 id="美股退市机制">美股退市机制</h2>
+<h3 id="自愿退市">自愿退市</h3>
+<p>私有化、并购等形式。因为股价无法体现公司真实价值或希望回归A股、港股等其他市场等因素，部分美股上市公司也会进行自愿退市</p>
+<h4 id="常见的13e-3规则私有化退市going-private">（常见的）13e-3规则私有化退市（going private）</h4>
+<ul>
+<li>
+<h5 id="一步式合并合并">一步式合并（合并）</h5>
+<p>买方（通常为大股东）新设全资子公司（通常称为“合并子公司”Merger Sub），通过合并子公司与美股上市公司签署合并协议将二者合并，使上市公司退市。</p>
+</li>
+<li>
+<h5 id="两步式合并要约收购简易合并">两步式合并（要约收购+简易合并）</h5>
+<ol>
+<li>要约收购：收购方（通常为大股东）要向上市公司发出全面收购要约，以获得足够多的股份，使其控制的上市公司流通股份达到90%以上。当收购方获得90%以上的流通股份（或投票权）后，即可触发简易合并程序；否则，将不得不转而选择上文所述“一步式合并”路径；</li>
+<li>简易合并：简易合并是指根据公司注册地的法律，若收购方通过要约收购已获得上市公司90%以上的流通股份（或投票权），则无需经过SEC审核，亦无需经过股东大会表决，收购方即可与上市公司完成合并。届时，上市公司将成为收购方的全资子公司而退市，其原有股份将被注销，小股东将被“挤出”并获得相应的合并对价。同时，因为此种方案下上市公司不需要召开股东大会即可完成合并，小股东即便存在异议，也难以行使一步式合并下的评估议价权。</li>
+</ol>
+</li>
+<li>
+<h5 id="反向股票分割">反向股票分割</h5>
+<p>反向股票分割也被称为“缩股”模式，即公司采取反向股份分割的方式缩减登记的股东人数，使得股东人数低于SEC的要求，从而无需继续递交信息披露报告，实现退市。通过反向股票分割的方式，可以实现上市公司退市的目的，但是可能会因部分股东未被挤出而无法使上市公司彻底私有化。</p>
+</li>
+</ul>
+<h4 id="因要求高而不常见的12h-6规则退市">（因要求高而不常见的）12h-6规则退市</h4>
+<h3 id="强制退市">强制退市</h3>
+<p>触发不符合持续上市条件。跟360私有化退市项目关系不大，不展开。</p>
+<h2 id="其他细节">其他细节</h2>
+<h3 id="filed-v-furnished"><a href="https://www.lexology.com/library/detail.aspx?g=a647bfcf-363f-4e5f-83ac-ffa8dcfdc11b">Filed v. Furnished</a></h3>
+<p>在向美国证监会（SEC）提交材料时，这两个动词的含义是不同的，不能替换。Filed 的文件要承担更严格的法律责任，包括重大误述和遗漏的责任（liability for material misstatements or omissions）。</p>
+<p>Filed 通常译为申报，furnished 可译为提供/提交。</p>
+<h2 id="参考资料">参考资料</h2>
+<ol>
+<li><a href="http://tisize.com/shuo/one/191.html">三六零私有化退市及VIE架构拆除与重组上市方案总结（一）</a>，陈劲松，北京玺泽律师事务所</li>
+<li><a href="http://tisize.com/shuo/one/192.html">三六零私有化退市及VIE架构拆除与重组上市方案总结（二）</a>，陈劲松，北京玺泽律师事务所</li>
+<li><a href="http://tisize.com/shuo/one/193.html">三六零私有化退市及VIE架构拆除与重组上市方案总结（三）</a>，陈劲松，北京玺泽律师事务所</li>
+<li><a href="https://mp.weixin.qq.com/s/OB7DOFTsWKu7BMq2FkDTMw">美股上市全流程解析（一）上市的条件及流程</a>，锦天城律师事务所</li>
+<li><a href="">美股上市全流程解析（二）上市备案的重难点解析</a>，锦天城律师事务所</li>
+<li><a href="https://mp.weixin.qq.com/s/fSIUC2zoej68It8wLBcQZA">美股上市全流程解析（三）减持及退市机制</a>，锦天城律师事务所</li>
+<li><a href="https://www.lexology.com/library/detail.aspx?g=a647bfcf-363f-4e5f-83ac-ffa8dcfdc11b">Filed v. Furnished, What’s the Difference?</a> Jeffrey B. Morlend, Sullivan &amp; Worcester LLP</li>
+<li><a href="https://www.blackrock.com/corporate/literature/publication/blk-corporate-governance-and-proxy-voting-guidelines-for-chinese-securities.pdf">贝莱德尽责管理中国上市公司股东大会投票指引</a>（<a href="https://www.blackrock.com/corporate/literature/publication/blk-corporate-governance-and-proxy-voting-guidelines-for-chinese-securities-simplified-chinese.pdf">英文版</a>）， 自2024年1月起生效</li>
+</ol>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://joeythetranslator.github.io/tag/_Gk-a_6IS/" class="tag">
+                    项目复盘笔记
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/YAsu3NVVvn/" class="tag">
+                    并购
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/azGBb8sgKs/" class="tag">
+                    私有化
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/C477Bi43qS/" class="tag">
+                    退市
+                  </a>
+                
+                  <a href="https://joeythetranslator.github.io/tag/TMINNZtEn/" class="tag">
+                    英译中
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://joeythetranslator.github.io/post/ru-he-fan-yi-legal-actionsu-song-huo-fa-lu-xing-dong/">
+                  <h3 class="post-title">
+                    如何翻译 Legal Action？
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>

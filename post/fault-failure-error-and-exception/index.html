@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>Fault, Failure, Error, &amp; Exception | Joey&#39;s Blog</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://joeythetranslator.github.io/favicon.ico?v=1717578286692">
+<link rel="stylesheet" href="https://joeythetranslator.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="[待补充]
+近期在翻译一份字节的文件，常常需要翻译异常、故障、报错等表达。但是字节的翻译记忆库（TM）似乎质量不高，经常混用。因此想总结一下各个词汇的常见用法。
+参考资料
+Faster app troubleshooting with Er..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://joeythetranslator.github.io">
+        <img src="https://joeythetranslator.github.io/images/avatar.png?v=1717578286692" class="site-logo">
+        <h1 class="site-title">Joey&#39;s Blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me" class="site-nav">
+            自我介绍
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me-english" class="site-nav">
+            About Me
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/work-product-sample" class="site-nav">
+            Work Product Sample
+          </a>
+        
+      
+        
+          <a href="/" class="site-nav">
+            Homepage
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            Tags
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            Archives
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/zhuan-ti-yan-jiu-wai-shang-tou-zi" class="site-nav">
+            Foreign Investment
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/he-gui" class="site-nav">
+            Compliance
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/plain-chinese-jian-ming-zhong-wen" class="site-nav">
+            Plain Chinese
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/table-of-contents" class="site-nav">
+            Civil Code of the PRC
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/min-fa-dian-cuo-wu-he-ji" class="site-nav">
+            民法典翻译错误合集
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      This is a blog about using American English to translate Chinese stuff, in particular, the legal and business things about China.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://joeythetranslator.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">Fault, Failure, Error, &amp; Exception</h2>
+            <div class="post-date">2024-05-29</div>
+            
+            <div class="post-content" v-pre>
+              <p>[待补充]</p>
+<p>近期在翻译一份字节的文件，常常需要翻译异常、故障、报错等表达。但是字节的翻译记忆库（TM）似乎质量不高，经常混用。因此想总结一下各个词汇的常见用法。</p>
+<h2 id="参考资料">参考资料</h2>
+<p><a href="https://www.youtube.com/watch?v=3AYQMb_lA7Y">Faster app troubleshooting with Error Reporting</a>, Google Cloud</p>
+<p><a href="https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-">System Error Codes</a>, Microsoft</p>
+<p><a href="https://support.google.com/merchants/troubleshooter/7100420?hl=en">Troubleshooting Guide</a>, Google</p>
+<h3 id="failure">Failure</h3>
+<p>the fact of something not working, or stopping working as well as it should</p>
+<p>故障；失灵；衰退；衰竭</p>
+<ul>
+<li>He died of heart/liver failure.</li>
+<li>他死于心脏／肝功能衰竭。</li>
+<li>The accident was caused by the failure of the reactor's cooling system.</li>
+<li>事故是由反应堆冷却系统发生故障造成的。</li>
+</ul>
+<h3 id="fault">Fault</h3>
+<p>a broken part or weakness in a machine or system</p>
+<p>（机器或系统的）毛病，故障，缺陷</p>
+<ul>
+<li>The car has a serious design fault.</li>
+<li>这款车存在重大的设计缺陷。</li>
+<li>An electrical fault caused the fire.</li>
+<li>电路故障引起了火灾。</li>
+<li>For all the faults in our education system, it is still better than that in many other countries.</li>
+<li>尽管存在种种缺陷，我们的教育系统仍然比其他许多国家的要好。</li>
+</ul>
+<h3 id="error">Error</h3>
+<p>a mistake</p>
+<p>错误；谬误；差错</p>
+<ul>
+<li>He admitted that he'd made an error.</li>
+<li>他承认犯了一个错误。</li>
+<li>The letter contains a number of typing errors.</li>
+<li>信中有一些打字错误。</li>
+<li>Human error has been blamed for the air crash.</li>
+<li>飞机坠毁被归咎于人为失误。</li>
+<li>With something as delicate as brain surgery, there is little margin for error (= you must not make mistakes).</li>
+<li>像做脑部外科手术这样精细的事情，容不得半点差错。</li>
+</ul>
+<h3 id="exception">Exception</h3>
+<p>someone or something that is not included in a rule, group, or list or that does not behave in the expected way</p>
+<p>除外的人；例外的事物</p>
+<ul>
+<li>Men are usually quite good at map-reading but Tim is the exception.</li>
+<li>通常男性都很会看地图，但蒂姆却是个例外。</li>
+<li>There are exceptions to every rule.</li>
+<li>每条规则皆有例外。</li>
+<li>I like all kinds of movies with the exception of (= but not) horror movies.</li>
+<li>除了恐怖片，各种电影我都爱看。</li>
+<li>Her books are always entertaining and this one is no exception.</li>
+<li>她写的书总是妙趣横生，这本也不例外。</li>
+<li>You must report here every Tuesday without exception.</li>
+<li>你每周二都必须来此报告，不得有例外。</li>
+</ul>
+<h2 id="关于作者"><strong>关于作者</strong></h2>
+<ol>
+<li>张诗尧（<a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>），译者/法学学士，持有中国法律职业资格，长期从事法律翻译、法律检索、商业翻译</li>
+<li>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></li>
+<li>个人简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅</li>
+<li>可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></li>
+<li>欢迎<a href="https://joeythetranslator.github.io/post/buy-me-a-coffee/">赞赏</a></li>
+</ol>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://joeythetranslator.github.io/post/yue-du-xin-tuo-fa-lun-wen-za-ji/">
+                  <h3 class="post-title">
+                    阅读信托法论文：杂记
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>

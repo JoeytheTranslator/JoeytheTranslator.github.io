@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://joeythetranslator.github.io</id>
+    <title>Joey&apos;s Blog</title>
+    <updated>2024-06-05T09:04:52.722Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://joeythetranslator.github.io"/>
+    <link rel="self" href="https://joeythetranslator.github.io/atom.xml"/>
+    <subtitle>This is a blog about using American English to translate Chinese stuff, in particular, the legal and business things about China.</subtitle>
+    <logo>https://joeythetranslator.github.io/images/avatar.png</logo>
+    <icon>https://joeythetranslator.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Joey&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[[待解决] 地方法院报告检索需求]]></title>
+        <id>https://joeythetranslator.github.io/post/dai-jie-jue-di-fang-fa-yuan-bao-gao-jian-suo-xu-qiu/</id>
+        <link href="https://joeythetranslator.github.io/post/dai-jie-jue-di-fang-fa-yuan-bao-gao-jian-suo-xu-qiu/">
+        </link>
+        <updated>2024-06-05T08:59:45.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="背景">背景</h2>
+<p>中国内地的法院，经常发各种指引、报告。</p>
+<p>但是新闻通稿都是套话抄来抄去，就是不给指引或者报告的原文。</p>
+<p>比如，2024年5月厦门中院发布了<a href="https://mp.weixin.qq.com/s/mynyWULiHFkohdCBRCL1sw">《关于申请认可和协助香港特别行政区破产程序的工作指引（试行）》</a>，2024年5月南京中院发布了<a href="https://mp.weixin.qq.com/s/_nhVh0YUYqdS1NuuoV5G9A">《南京法院涉外、涉港澳台审判工作白皮书（2019～2023）》</a>，但是这些文件貌似都找不到官方发布的版本。</p>
+<p>比如，<a href="https://mp.weixin.qq.com/s/VQl30kJhdy60hYmRpDwgIA">这个链接</a>可能包括《南京法院涉外、涉港澳台审判工作白皮书（2019～2023）》的内容，但是并非官方版本。</p>
+<h2 id="问题">问题</h2>
+<p>如何找到官方发布的此类报告、文件？</p>
+<h2 id="关于作者">关于作者</h2>
+<ol>
+<li>张诗尧（<a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>），译者/法学学士，持有中国法律职业资格，长期从事法律翻译、法律检索、商业翻译</li>
+<li>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></li>
+<li>个人简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅</li>
+<li>可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></li>
+<li>欢迎<a href="https://joeythetranslator.github.io/post/buy-me-a-coffee/">赞赏</a></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何翻译 But For Requirement？]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-fan-yi-but-for-requirement/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-fan-yi-but-for-requirement/">
+        </link>
+        <updated>2024-05-29T14:16:36.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="结论">结论</h2>
+<p>必要条件。</p>
+<p>but for test 或 but for requirement 通常是用于判断诉讼案件的因果关系，国内似乎没有对应的法学概念，即立法或司法并没有「法言法语」可以对应这个概念。但从数学的条件关系来说的话，这个概念可以理解为必要条件。</p>
+<h2 id="参考资料">参考资料</h2>
+<p><a href="http://www.chinesetortlaw.com/article/default.asp?id=96">《侵权法上的因果关系》</a></p>
+<ul>
+<li>在决定事实上的因果关系是否存在时，英国法官首先采用的是“若非――则无”（but-for）检验标准。其含义是，假如没有被告的行为，这种损害结果本来不会发生，那么，就认定这个因果关系是存在的。也就是说，如果没有违反义务的行为，该损害本来不会发生，事实上的因果关系就存在了。</li>
+<li>例如， 在1969年英国王座法庭判决的巴耐特案（Barnett v. Cheisea and Kensington Hospital Management Committee [1969] 1 Q.B. 428.）中，原告的丈夫到被告医院就诊时告诉医生，他在不断地呕吐。该医院急诊室的医生没有收治这个病人，说我这是一家小医院，请你马上到大医院去治疗，结果在5个小时之后，该病人死亡了。于是，原告的家属就起诉了这家医院。后来法院判决，病人死亡的原因是砷中毒，即使该医生对他作了检查，他也会在得到确诊和有效治疗之前死亡，因此，在医院拒绝收治的行为与病人的死亡之间没有因果关系，故该违反义务的行为不是该病人死亡的原因。这就是适用了“若非――则无”标准进行的裁决。</li>
+<li>“若非――则无”标准目前在发达国家得到了普遍的采纳。例如在德国，在证明因果关系的存在时，法律要求采取的第一个步骤就是，证实某一行为或原因力是所导致的结果的“必要条件”。英国经常采用“若非――则无”标准来裁决，大陆法系国家经常适用的是“必要条件”，这两个概念的含义完全是一样的。</li>
+</ul>
+<p><a href="https://www.civillaw.com.cn/uploadfile/lmpic/20151122/20151122001308826.pdf">《英美侵权法中的因果关系——法律传统和法律政策视角下的考察》</a></p>
+<ul>
+<li>事实原因被认为是某一事件发生的必要条件（necessary condition, causa sine quanon)。作为判断必要条件的基本标准，则是为人所知的“but for”标准 。</li>
+</ul>
+<p><a href="https://www.tdcaa.com/journal/concurrent-causation-for-dummies/">Concurrent causation for dummies</a> （并存因果关系）</p>
+<ul>
+<li>Concurrent causation is defined in Texas Penal Code §6.04(a), which reads in relevant part:<br>
+A person is criminally responsible if the result would not have occurred <u><strong>but for</strong></u> his conduct, operating alone or concurrently with another cause, unless the concurrent cause was clearly sufficient to produce the result and the conduct of the actor clearly insufficient.</li>
+<li>A defendant successfully raising a concurrent causation issue and obtaining a jury instruction on it is not fatal to the State’s case. This is because even if a concurrent cause or causes exist, “two possible combinations exist to satisfy <u><strong>the ‘but for’ requirement</strong></u>: (1) the defendant’s conduct may be sufficient by itself to have caused the harm, regardless of the existence of a concurrent cause; or (2) the defendant’s conduct and the other cause together may be sufficient to have caused the harm.”</li>
+<li><a href="https://www.allbrightlaw.com/CN/10475/9d23a19ca14e15d2.aspx">并存的因果关系，指多个互相独立发生的原因，共同地导致损害发生，任一原因都不能单独致损的情形。</a></li>
+</ul>
+<p><a href="https://blog.bluestonelawfirm.com/2007/12/blog-articles/what-does-but-for-really-mean-in-legal-malpractice/">What does “but for” Really Mean in Legal Malpractice?</a></p>
+<ul>
+<li>In sum, regardless of the formulation employed, a plaintiff in a legal malpractice action need prove only that the defendant-attorney’s negligence was a proximate cause of damages.</li>
+</ul>
+<p><a href="https://www.lawbank.com.tw/treatise/pl_article.aspx?AID=P000250067">保險法的因果關係</a>（Causation in Insurance Law）</p>
+<ul>
+<li>美國法院在保險訴訟糾紛中，面臨「併存因果關係」與「反併存因果關係條款」難題時，各州法院立場不盡一致，引起許多爭議，學者對此作有精闢討論。我國法院實務雖未見「併存因果關係」與「反併存因果關係條款」之名詞，但實際上「併存因果關係」現象與「反併存因果關係條款」已經存在於保險法訴訟訴案件之中。美國法院的處理經驗與學界討論，正可供研究保險法上因果關係之借鑑。</li>
+</ul>
+<h2 id="关于作者"><strong>关于作者</strong></h2>
+<ol>
+<li>张诗尧（<a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>），译者/法学学士，持有中国法律职业资格，长期从事法律翻译、法律检索、商业翻译</li>
+<li>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></li>
+<li>个人简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅</li>
+<li>可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></li>
+<li>欢迎<a href="https://joeythetranslator.github.io/post/buy-me-a-coffee/">赞赏</a></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法律英语中的转让]]></title>
+        <id>https://joeythetranslator.github.io/post/fa-lu-ying-yu-zhong-de-zhuan-rang/</id>
+        <link href="https://joeythetranslator.github.io/post/fa-lu-ying-yu-zhong-de-zhuan-rang/">
+        </link>
+        <updated>2024-05-29T13:26:49.000Z</updated>
+        <content type="html"><![CDATA[<p>存在一种<a href="https://www.jianshu.com/p/20f3dc9db12f">观点</a>，认为 Assignment/Assign 只能转让权利，不能转让义务。涉及权利义务的概括转让必须用 Novation。</p>
+<p>第一，讨论法律或法律翻译之前，要确定司法管辖区和部门法。</p>
+<p>以上这个观点可能是源自英国法。在 Linden v Lenesta [1993]一案中，Browne Wilkinson勋爵认为，<a href="https://zhuanlan.zhihu.com/p/661146425">「法律一直认为，无论如何都不能将包括负担和利益在内的合同整体进行转让。未经合同另一方同意，合同的负担永远不能转让，而这种同意将构成合同更新」</a></p>
+<p>第二，在澳大利亚也有相同观点。参见 <a href="https://www.sierralegal.com.au/news/transferring-contracts-assignment-and-novation-explained">Transferring contracts: assignment and novation explained</a></p>
+<ul>
+<li>An assignment of a contract involves transferring the rights (but not the obligations) of the outgoing party to the incoming party.</li>
+<li>In legal terms, novation refers to the substitution of a new contract for an existing one, maintaining the same terms as the original contract, but between the continuing party and the incoming party instead of between the continuing party and the outgoing party. Unlike assignment, a novation transfers both the rights and obligations under the relevant contract from the outgoing party to the incoming party.</li>
+</ul>
+<p>第三，虽然都是 Common Law 国家，但英国、澳大利裔、美国的法律是有差异的。具体而言，文首提到的观点和美国证监会（SEC）披露的公开文件明显是矛盾的。在涉及权利义务转让时，美国的法律文书并未使用 Novation 一词。</p>
+<p>比如，在下面这份适用特拉华州法律的转让协议（<a href="https://www.sec.gov/Archives/edgar/data/1579684/000119312513435497/d603516dex1031.htm">Assignment Agreement</a>）中，在同一段条款，约定了转让权利和义务：</p>
+<ul>
+<li>WHEREAS, the Assignor wishes to transfer and assign to the Assignee all of the Assignor’s rights and interests in and to, and obligations under, the Stock Purchase Agreement, and the Assignee wishes to be the assignee and transferee of such rights, interests and obligations;</li>
+<li>Assignment and Assumption. The Assignor hereby transfers and assigns to the Assignee, and the Assignee hereby acquires from the Assignor all of the Assignor’s rights, and interests in and to the Stock Purchase Agreement, of whatever kind or nature, and the Assignee hereby assumes and agrees to perform all obligations, duties, liabilities and commitments of the Assignor under the Stock Purchase Agreement, of whatever kind or nature.</li>
+</ul>
+<p>在以下这份适用特拉华州法律的转让协议（<a href="https://www.sec.gov/Archives/edgar/data/6769/000119312521063792/d129139dex101.htm">Assignment and Assumption Agreement</a>）中，也是在同一条款约定转让权利和义务：</p>
+<ul>
+<li>Assignment. Effective as of the Effective Time, Assignor hereby assigns to Assignee all of its rights and obligations under the Assumed Agreements.</li>
+</ul>
+<p>在以下这份适用特拉华州法律的转让协议（<a href="https://www.sec.gov/Archives/edgar/data/1340786/000119312506136926/dex210.htm">Form of Assignment and Assumption Agreement</a>）中，也是在同一条款约定转让权利和义务：</p>
+<ul>
+<li>Assignment and Assumption. (a) Assignor hereby irrevocably transfers and assigns to Assignee all of Assignor’s rights, assets, privileges and powers under the following Assumed Contracts, with all liabilities, obligations, covenants and representations and warranties of Assignor thereunder, as the same were held, performed and observed by Assignor immediately prior to the Effective Date, except as otherwise set forth below, and Assignee hereby accepts such transfer and assignment and assumes the due and punctual observance and performance of each and every such liability, obligation, covenant and representation and warranty:</li>
+</ul>
+<p>在以下这份适用纽约州法律的转让协议（<a href="https://www.sec.gov/Archives/edgar/data/1061630/000119312512513111/d457071dex102.htm">Assignment Agreement</a>）中，在第1条中约定转让权利，在第2条中约定继受义务。</p>
+<ol>
+<li>Assignment of Assigned Interests. Assignor hereby assigns, transfers and conveys to Assignee the right to purchase the Assigned Interests and the corresponding rights pursuant to the Purchase Agreement effective as of the date hereof.</li>
+<li>Assumption. Assignee hereby accepts the foregoing assignment, transfer and conveyance and assumes and agrees to perform all of the duties and obligations of Assignor under the Purchase Agreement, in accordance with the terms thereof, applicable to or otherwise allocated to or with respect to the Assigned Interests.</li>
+</ol>
+<h2 id="关于作者"><strong>关于作者</strong></h2>
+<ol>
+<li>张诗尧（<a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>），译者/法学学士，持有中国法律职业资格，长期从事法律翻译、法律检索、商业翻译</li>
+<li>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></li>
+<li>个人简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅</li>
+<li>可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></li>
+<li>欢迎<a href="https://joeythetranslator.github.io/post/buy-me-a-coffee/">赞赏</a></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诉讼和仲裁等程序的主体]]></title>
+        <id>https://joeythetranslator.github.io/post/su-song-he-zhong-cai-deng-cheng-xu-de-zhu-ti/</id>
+        <link href="https://joeythetranslator.github.io/post/su-song-he-zhong-cai-deng-cheng-xu-de-zhu-ti/">
+        </link>
+        <updated>2024-05-29T13:13:17.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="原告-vs-被告">原告 VS 被告</h2>
+<p>在尚未立案前，原告应称为 Claimant，诉讼立案后才可称为 Plaintiff。被告为 Defendant。</p>
+<ul>
+<li>
+<p>The “claimant” is the person who has been injured and who would be making a claim for their injuries.</p>
+</li>
+<li>
+<p>The word “plaintiff” isn’t used until there is a lawsuit started.</p>
+</li>
+<li>
+<p>The party responsible for the plaintiff’s injuries is known as the “defendant.”</p>
+<p><a href="https://schoberlaw.com/2016/12/11/claimant-or-plaintiff-in-a-personal-injury-lawsuit/">来源</a></p>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1716989038711.png" alt="" loading="lazy"></figure>
+</li>
+</ul>
+<p>截图<a href="https://www.sec.gov/divisions/enforce/claims/sunempirecourtorder.pdf">来源</a>。</p>
+<h2 id="上诉人-vs-被上诉人">上诉人 VS 被上诉人</h2>
+<p><a href="https://www.findlaw.com/litigation/filing-a-lawsuit/appealing-a-court-decision-or-judgment.html">The party appealing the case is called the appellant or the petitioner. The appellee or the respondent is the opposing party.</a></p>
+<h2 id="申请人-vs-被申请人">申请人 VS 被申请人</h2>
+<p>仲裁的申请人为 Claimant，被申请人为 Respondent。</p>
+<p>Claimant (the party who initiated the arbitration)</p>
+<p>Respondents (the parties who have been sued)</p>
+<ul>
+<li><a href="https://www.americanbar.org/content/dam/aba/publications/dispute_resolution_magazine/summer2017/3_summer_2017_levin.pdf">Stiffing the Arbitrators and the Respondents</a></li>
+</ul>
+<h2 id="关于作者"><strong>关于作者</strong></h2>
+<ol>
+<li>张诗尧（<a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>），译者/法学学士，持有中国法律职业资格，长期从事法律翻译、法律检索、商业翻译</li>
+<li>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></li>
+<li>个人简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅</li>
+<li>可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></li>
+<li>欢迎<a href="https://joeythetranslator.github.io/post/buy-me-a-coffee/">赞赏</a></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SICC是「新加坡国际商事法庭」还是「新加坡国际商业法庭」？]]></title>
+        <id>https://joeythetranslator.github.io/post/sicc-shi-xin-jia-po-guo-ji-shang-shi-fa-ting-huan-shi-xin-jia-po-guo-ji-shang-ye-fa-ting/</id>
+        <link href="https://joeythetranslator.github.io/post/sicc-shi-xin-jia-po-guo-ji-shang-shi-fa-ting-huan-shi-xin-jia-po-guo-ji-shang-ye-fa-ting/">
+        </link>
+        <updated>2024-05-29T13:08:32.000Z</updated>
+        <content type="html"><![CDATA[<p>新加坡法院系统将 Singapore International Commercial Court（SICC）译为「<a href="https://www.judiciary.gov.sg/docs/default-source/sicc-docs/211229-glossary-of-legal-terms.pdf">新加坡国际商业法庭</a>」，而其他机构，包括<a href="https://www.jonesday.com/zh-hans/insights/2015/05/%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%AE%BE%E7%AB%8B%E5%9B%BD%E9%99%85%E5%95%86%E4%BA%8B%E6%B3%95%E5%BA%AD">众达律所</a>，则将其称为「新加坡国际商事法庭」。</p>
+<p>虽然只有一字之差。但是，<a href="https://profile.nus.edu.sg/fass/chswh/wenxun.pdf">华语也是新加坡的官方语言</a>。客随主便，应该尊重新加坡法院系统的官方命名，用新加坡国际商业法庭作为SICC的中文名称。</p>
+<h2 id="参考资料"><strong>参考资料</strong></h2>
+<ol>
+<li>新加坡国际商业法庭（新加坡翻译为“国际商业法庭”，国内称之为“国际商事法庭”）最大的两个特点是国际性和独立性，“独立性”主要指程序上的独立性，这两个特点是它能够在国际上得到认可的主要原因。<a href="https://cicc.court.gov.cn/html/1/218/62/164/864.html">来源</a>。</li>
+<li><a href="https://www.bj148.org/wh/bl/sy/202005/t20200519_1572125.html">新加坡国际商事法庭的由来与发展</a></li>
+</ol>
+<h2 id="关于作者"><strong>关于作者</strong></h2>
+<ol>
+<li>张诗尧（<a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>），译者/法学学士，持有中国法律职业资格，长期从事法律翻译、法律检索、商业翻译</li>
+<li>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></li>
+<li>个人简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅</li>
+<li>可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></li>
+<li>欢迎<a href="https://joeythetranslator.github.io/post/buy-me-a-coffee/">赞赏</a></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fault, Failure, Error, & Exception]]></title>
+        <id>https://joeythetranslator.github.io/post/fault-failure-error-and-exception/</id>
+        <link href="https://joeythetranslator.github.io/post/fault-failure-error-and-exception/">
+        </link>
+        <updated>2024-05-29T12:56:40.000Z</updated>
+        <content type="html"><![CDATA[<p>[待补充]</p>
+<p>近期在翻译一份字节的文件，常常需要翻译异常、故障、报错等表达。但是字节的翻译记忆库（TM）似乎质量不高，经常混用。因此想总结一下各个词汇的常见用法。</p>
+<h2 id="参考资料">参考资料</h2>
+<p><a href="https://www.youtube.com/watch?v=3AYQMb_lA7Y">Faster app troubleshooting with Error Reporting</a>, Google Cloud</p>
+<p><a href="https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499-">System Error Codes</a>, Microsoft</p>
+<p><a href="https://support.google.com/merchants/troubleshooter/7100420?hl=en">Troubleshooting Guide</a>, Google</p>
+<h3 id="failure">Failure</h3>
+<p>the fact of something not working, or stopping working as well as it should</p>
+<p>故障；失灵；衰退；衰竭</p>
+<ul>
+<li>He died of heart/liver failure.</li>
+<li>他死于心脏／肝功能衰竭。</li>
+<li>The accident was caused by the failure of the reactor's cooling system.</li>
+<li>事故是由反应堆冷却系统发生故障造成的。</li>
+</ul>
+<h3 id="fault">Fault</h3>
+<p>a broken part or weakness in a machine or system</p>
+<p>（机器或系统的）毛病，故障，缺陷</p>
+<ul>
+<li>The car has a serious design fault.</li>
+<li>这款车存在重大的设计缺陷。</li>
+<li>An electrical fault caused the fire.</li>
+<li>电路故障引起了火灾。</li>
+<li>For all the faults in our education system, it is still better than that in many other countries.</li>
+<li>尽管存在种种缺陷，我们的教育系统仍然比其他许多国家的要好。</li>
+</ul>
+<h3 id="error">Error</h3>
+<p>a mistake</p>
+<p>错误；谬误；差错</p>
+<ul>
+<li>He admitted that he'd made an error.</li>
+<li>他承认犯了一个错误。</li>
+<li>The letter contains a number of typing errors.</li>
+<li>信中有一些打字错误。</li>
+<li>Human error has been blamed for the air crash.</li>
+<li>飞机坠毁被归咎于人为失误。</li>
+<li>With something as delicate as brain surgery, there is little margin for error (= you must not make mistakes).</li>
+<li>像做脑部外科手术这样精细的事情，容不得半点差错。</li>
+</ul>
+<h3 id="exception">Exception</h3>
+<p>someone or something that is not included in a rule, group, or list or that does not behave in the expected way</p>
+<p>除外的人；例外的事物</p>
+<ul>
+<li>Men are usually quite good at map-reading but Tim is the exception.</li>
+<li>通常男性都很会看地图，但蒂姆却是个例外。</li>
+<li>There are exceptions to every rule.</li>
+<li>每条规则皆有例外。</li>
+<li>I like all kinds of movies with the exception of (= but not) horror movies.</li>
+<li>除了恐怖片，各种电影我都爱看。</li>
+<li>Her books are always entertaining and this one is no exception.</li>
+<li>她写的书总是妙趣横生，这本也不例外。</li>
+<li>You must report here every Tuesday without exception.</li>
+<li>你每周二都必须来此报告，不得有例外。</li>
+</ul>
+<h2 id="关于作者"><strong>关于作者</strong></h2>
+<ol>
+<li>张诗尧（<a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>），译者/法学学士，持有中国法律职业资格，长期从事法律翻译、法律检索、商业翻译</li>
+<li>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></li>
+<li>个人简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅</li>
+<li>可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></li>
+<li>欢迎<a href="https://joeythetranslator.github.io/post/buy-me-a-coffee/">赞赏</a></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅读信托法论文：杂记]]></title>
+        <id>https://joeythetranslator.github.io/post/yue-du-xin-tuo-fa-lun-wen-za-ji/</id>
+        <link href="https://joeythetranslator.github.io/post/yue-du-xin-tuo-fa-lun-wen-za-ji/">
+        </link>
+        <updated>2024-05-25T17:45:03.000Z</updated>
+        <content type="html"><![CDATA[<p>现在是2024年5月26日，星期六，晚上12点45分。</p>
+<p>今天断断续续地在看朱圆老师的文章《论信托的性质与我国信托法的属性定位》，边看边做笔记，但是脑海中不断浮现看这篇文章的起因，故而记录如下。</p>
+<h2 id="一">（一）</h2>
+<p>2024年4月15日，在阅读一篇论文时，对其中的批注感到非常困惑，百思不得其解。于是打算联系作者，直接询问本人。在网上查询过后，才发现跟作者是校友，并且他目前是上海交大法学院的副教授，上交大法学院官网上有他的邮箱地址。于是就发了邮件，简单说明了来意和问题。</p>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1716659169267.png" alt="" loading="lazy"></figure>
+<p>邮件是在晚上9点58分发送的。</p>
+<p>出人意料的是，邮件发送出去不到半小时，徐老师就打电话来。</p>
+<p>徐老师解释说这篇文章是他十多年前写的，具体细节他也记不清了。但他本人确实认识托马斯教授，托马斯教授来中国，他通常也都会去和他见面，一起参与学术活动。而且因为种种原因，目前信托法也不是徐老师的研究方向。</p>
+<p>但是，徐老师在电话里说，福州大学法学院的朱圆老师，也是研究信托法的，写过一篇关于信托的性质的文章，可以去看一下。</p>
+<p>这就是我阅读《论信托的性质与我国信托法的属性定位》的直接原因。</p>
+<p>说来惭愧，之前从来不知道朱圆老师，当时也不知道「ZhuYuan」是哪两个汉字。在挂掉电话后，经过检索，就找到了这篇文章。</p>
+<figure data-type="image" tabindex="2"><img src="https://joeythetranslator.github.io/post-images/1716659183114.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://joeythetranslator.github.io/post-images/1716659192411.png" alt="" loading="lazy"></figure>
+<h2 id="二">（二）</h2>
+<p>某种程度上，大学扩招其实是大水漫灌。</p>
+<p>我本人也是大学扩招的受益者，算是吃了时代的红利。但是我从来都不觉得学历有高低之分，一直也都不会强调自己的学历背景之类的。一些朋友也是专科、专升本之类的学历背景，但并不妨碍我们的关系很好。</p>
+<p>大学时的经历，更是让我对研究生没多少好印象。</p>
+<p>本科时有一次去旁听好友的课业展示，我记得朋友做的展示是关于共享单车的，结论是共享单车的商业模式不会成功。但是在她们做完展示之后，她们学院的研究生学姐在点评时，说了句“本科生能做到这样就很好了”之类的，言语中透着一股傲慢。这句话一下子就把我点着了。</p>
+<p>单纯从结果来看，朋友的结论是对的，也算是对那个研究生学姐的超时空反击。</p>
+<p>我对拉帮结派的做法也很深恶痛绝。本科生大家都没有直接的导师，平常嘻嘻哈哈地去上课。关系铁不铁，纯看兴趣爱好能不能撞上。但是到了研究生阶段就不一样，有直系导师，有关系更近的同门学长学姐、学弟学妹。还会看到很多导师逢年过节搞「师门聚会」。</p>
+<p>但是，这一次，我也因为校友关系，得到了特别的关照。徐老师在电话中也坦言，他看到我也是厦大法学院，是校友，才跟我联系。如果是一般人发邮件，他可能就不理了。</p>
+<p>这也让我开始反思，过去的想法是不是太狭隘了？</p>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在英文中表达合同金额]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-zai-ying-wen-zhong-biao-da-he-tong-jin-e/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-zai-ying-wen-zhong-biao-da-he-tong-jin-e/">
+        </link>
+        <updated>2024-05-08T10:16:15.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="问题">问题</h3>
+<ol>
+<li>什么时候用 and</li>
+<li>什么时候用连字符（hyphen -）</li>
+<li>什么时候用货币代码，比如美元 USD、人民币 CNY</li>
+</ol>
+<h3 id="总结">总结</h3>
+<ol>
+<li>and 的使用规则比较混乱，实务中没有统一规则。建议仅在表示小数点时使用 and。可使用<a href="https://charactercalculator.com/numbers-to-words/">数字转文字</a>网站直接转换</li>
+</ol>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1715163444005.png" alt="" loading="lazy"></figure>
+<ol start="2">
+<li>不使用连字符</li>
+</ol>
+<h3 id="实例">实例</h3>
+<p>在受美国特拉华州法律管辖的这份<a href="https://www.sec.gov/Archives/edgar/data/8411/000000841115000062/ex102-supplementalagreemen.htm">证券购买协议</a>中，会使用 and</p>
+<ul>
+<li>USD One Million <u><strong>and</strong></u> Five Hundred Thousand U.S. Dollars</li>
+<li>$1,500,000</li>
+</ul>
+<p>在受美国特拉华州法律管辖的这份<a href="https://www.sec.gov/Archives/edgar/data/901491/000115752319001411/a51999074ex10_1.htm">协议</a>中，不使用 and</p>
+<ul>
+<li>
+<p>One Million Two Hundred Fifty Thousand U.S. Dollars</p>
+</li>
+<li>
+<p>USD$1,250,000</p>
+</li>
+</ul>
+<p>在受美国加州法律管辖的这份<a href="https://www.sec.gov/Archives/edgar/data/1269026/000149315218000128/ex10-1.htm">转让协议</a>中，规则不明确，and 时用时不用，比如264就没用，但是622就用了。且 and 表示小数点。</p>
+<ul>
+<li>Two Million Two Hundred Sixty Four Thousand Six Hundred <u><strong>and</strong></u> Twenty Two Dollars <u><strong>and</strong></u> Eighty Cents</li>
+<li>$2,264,622.80</li>
+</ul>
+<p>在受英国法律管辖的这份<a href="https://www.sec.gov/Archives/edgar/data/8411/000000841115000062/ex102-supplementalagreemen.htm">补充协议</a>中，不使用 and</p>
+<ul>
+<li>Two Hundred Ninety Three Million Nine Hundred Thousand</li>
+<li>USD $293,900,000.00</li>
+</ul>
+<p>在受香港法律管辖的这份<a href="https://www.sec.gov/Archives/edgar/data/1757840/000114420419036641/tv525414_ex10-1.htm">协议</a>中，and 表示小数点。</p>
+<ul>
+<li>three million one hundred fifty-two thousand five hundred seventy-seven <u><strong>and</strong></u> sixty-eight cents United States dollars</li>
+<li>USD 3,152,577.68</li>
+</ul>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Me a Coffee]]></title>
+        <id>https://joeythetranslator.github.io/post/buy-me-a-coffee/</id>
+        <link href="https://joeythetranslator.github.io/post/buy-me-a-coffee/">
+        </link>
+        <updated>2024-04-22T17:16:10.000Z</updated>
+        <content type="html"><![CDATA[<p>法律检索报告在<a href="https://github.com/JoeytheTranslator/Legal-Research-in-Chinese">这里</a>。</p>
+<p>博客文章在<a href="https://joeythetranslator.github.io/">这里</a>。</p>
+<p>知识因取用而丰盛。</p>
+<p>将逻辑严谨、可读性高的文章、检索报告开源，更有利于国家未来的法治公开、透明、进步。 每一篇文章、每一份报告，都需要花费大量的时间思考、阅读、论证、查证。但是即便如此，个人的能力终究有限，难免存在错误或纰漏。如您发现任何错误，或者有任何意见，欢迎联系我。</p>
+<p>如果这些内容对您有用，也欢迎赞赏。</p>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1715185045467.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何翻译 Issued and Outstanding Shares？]]></title>
+        <id>https://joeythetranslator.github.io/post/ru-he-fan-yi-issued-and-outstanding-shares/</id>
+        <link href="https://joeythetranslator.github.io/post/ru-he-fan-yi-issued-and-outstanding-shares/">
+        </link>
+        <updated>2024-04-18T15:58:36.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="问题">问题</h2>
+<p>如何准确理解 issued and outstanding shares，并将其翻译为中文？</p>
+<h2 id="示例">示例</h2>
+<p>参见苹果公司向美国证监会（SEC）申报的 <a href="https://www.sec.gov/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm">Form 10-K </a>文件：</p>
+<ul>
+<li>16,406,397,000 shares of common stock were <u><strong>issued and outstanding</strong></u> as of October 15, 2021.</li>
+</ul>
+<h2 id="英文概念">英文概念</h2>
+<p>&quot;When a corporation issues shares in exchange for payment, the person or entity that purchased the shares becomes a stockholder. The corporation then notes in its stock ledger that these shares are owned. <u><strong>The shares are referred to as issued and outstanding.</strong></u></p>
+<p>When a corporation grants someone the right to buy shares later, such as granting a stock option to an employee, <u><strong>those shares are not yet issued and outstanding</strong></u>. The shares do not appear on the corporation’s stock ledger, and a person does not become a stockholder by holding them. If the option is exercised, however, the shares would then become issued and outstanding and the person would become a stockholder.&quot;</p>
+<p>信源为 <a href="https://www.lathamdrive.com/resources/insights/issued-and-outstanding-shares-versus-fully-diluted-shares">Issued and Outstanding Shares Versus Fully Diluted Shares</a>, Latham &amp; Watkins</p>
+<h2 id="解释英文概念">解释英文概念</h2>
+<p>值得注意的是，美国和中国的公司资本制度存在根本不同。美国实行授权资本制，而中国实行法定资本制。两者存在本质的不同，不能强行用彼此的概念互相解释、生搬硬套。必须在理解中英文概念的基础上寻找功能对等的术语。</p>
+<ol>
+<li>Authorized shares 是一家公司能够发行的股份上限，通常译为<a href="https://www.faradayfuturecn.com/cn/press-room/FF-announces-stockholder-approval-to-increase-the-authorized-shares-of-FFIE-class-A-common-stock/">授权股数</a>，仅仅是一个固定数额，这个概念在中国大陆的法律实务中不存在。Authorized shares 可以包括 Reserved Shares, Allocated Shares, and Issued Shares。</li>
+<li>Issued shares 指的是公司的<a href="https://www.cr.gov.hk/tc/companies_ordinance/docs/NSC14_fillable.pdf">已发行股份</a>，包括公司回购的库存股（treasury stocks）。</li>
+<li>Outstanding shares 或 issued and outstanding shares（二者同义，重点为outstanding）是 Issued shares 扣除库存股后的股份，可以译为流通股。详细分析见下文。</li>
+</ol>
+<h2 id="中文概念">中文概念</h2>
+<h3 id="股权分置改革流通股非流通股">股权分置改革；流通股；非流通股</h3>
+<p>流通股和非流通股是股权分置改革中的一对概念。在2007年完成股权分置改革后，上市公司的所有的股份都是流通股，已经不存在非流通股。“<a href="https://www.gov.cn/ztzl/gclszfgzbg/content_554986.htm">股权分置改革结束了上市公司两类股份、两种价格并存的历史。</a>”具体内容可参见中国证监会发布的<a href="http://www.sse.com.cn/services/listing/equitydivision/rules/a/20150912/446d113c892b2693c2d86a3933773d64.pdf">2005《上市公司股权分置改革管理办法》</a>。</p>
+<p>这对特殊历史条件下的概念不能望文生义地理解。</p>
+<p>“从1990年资本市场建立，到2005年之前，上市公司的股权结构中，既包括可以上市流通的股票，也包括了很大部分不可以在市场上流通的股票。<a href="https://news.stcn.com/sd/202011/t20201125_2567455.html">前者称为流通股，主要是中小股东持有，后者称为非流通股，主要包括了国有股，法人股</a>。</p>
+<p>股权分置是资本市场发展中的历史遗留问题。最初在企业股份制改革时，为了保证公有股不流失，规定公有股不可以上市流通，国有企业的上市是通过增发股票而成为上市公司，原有股票则成为了非流通股。流通股对企业没有投票权，也就是同股不同权，非流通股股东对上市公司拥有控制权。”</p>
+<p>此外，<a href="https://sme.cuhk.edu.cn/article/2002">一级市场是发行市场，二级市场是流通市场。</a>完成股权分置改革后，流通股指可以在二级市场交易的股票。因此，可以用已发行股份来翻译 issued shares，用流通股来翻译 outstanding shares。</p>
+<p>然而，由于 outstanding shares 还包括 restricted shares，而 restricted shares 为限售股份，<a href="https://zhuanlan.zhihu.com/p/31841811">网上有另一种观点</a>据此认为 restricted shares 无法“流通”，因此不能用流通股来翻译包含 restricted shares 的 outstanding shares。这显然是犯了望文生义的错误。</p>
+<p>中国证监会在股权分置改革过程中，发布了<a href="http://www.sse.com.cn/lawandrules/guide/stock/zbxxpljg/ssgszxxxpl/ssgsgqfzgg/">一系列工作备忘录</a>，其中就包括<a href="http://www.sse.com.cn/lawandrules/guide/stock/zbxxpljg/ssgszxxxpl/ssgsgqfzgg/c/c_20230209_5715920.shtml">《关于股改形成的有限售条件的流通股上市流通有关事宜的补充规定》</a>。从这个文件名可以推断，流通股包括限售股，因为官方将这一类限售股称之为<u><strong>有限售条件的流通股</strong></u>。这和英文中 outstanding shares 包括 restricted shares 的含义不谋而合。更重要的是，此时两者的法律含义是相同的，因此是可以用来互译的。</p>
+<h2 id="实务">实务</h2>
+<p>值得注意的是，大陆地区和香港的用词均未能保持一致。中国证监会<a href="https://www.gov.cn/zhengce/zhengceku/2019-10/18/5441446/files/8adb3e789af846739a8e2ee1e945a488.pdf">《公开发行证券的公司信息披露内容与格式准则第 41 号——科创板公司招股说明书》</a>第21条是使用“流通的”，而非“发行在外的”这一用词。但在<a href="https://www.gov.cn/gongbao/content/2023/content_5754543.htm">《优先股试点管理办法》</a>第13条使用的却是“发行在外的”，而非“流通的”一词。</p>
+<figure data-type="image" tabindex="1"><img src="https://joeythetranslator.github.io/post-images/1713456001906.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://joeythetranslator.github.io/post-images/1713456638920.png" alt="" loading="lazy"></figure>
+<p>此外，港交所的披露文件同时存在”已發行及流通的股份“、”已發行及發行在外的股份“这两种用词。</p>
+<p><img src="https://joeythetranslator.github.io/post-images/1713456035875.png" alt="" loading="lazy"><br>
+图源在<a href="https://www.hkexnews.hk/listedco/listconews/sehk/2010/0630/01900_834040/c118.pdf">这里</a>。</p>
+<p><img src="https://joeythetranslator.github.io/post-images/1713456073221.png" alt="" loading="lazy"><br>
+图源在<a href="https://www.dbs.com.hk/iwov-resources/pdf/investments/fundshareholders/GSF_2023_AGM_Notice_and_Proxy_Form.pdf">这里</a>。</p>
+<p><img src="https://joeythetranslator.github.io/post-images/1713456107486.png" alt="" loading="lazy"><br>
+图源在<a href="https://www1.hkexnews.hk/listedco/listconews/sehk/2022/1222/10549660/2022122200136_c.pdf">这里</a>。</p>
+<p><img src="https://joeythetranslator.github.io/post-images/1713456121421.png" alt="" loading="lazy"><br>
+图源在<a href="https://sunshineoilsands.com/hk/uploads/investor/mic-06-24-19-hk.pdf">这里</a>。</p>
+<h2 id="关于作者">关于作者</h2>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+]]></content>
+    </entry>
+</feed>

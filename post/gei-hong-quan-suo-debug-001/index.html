@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>给红圈所 debug #001 | Joey&#39;s Blog</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://joeythetranslator.github.io/favicon.ico?v=1717578286692">
+<link rel="stylesheet" href="https://joeythetranslator.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="近期在阅读君合律所发布的文章时，发现了潜在错误。
+“投诉处理结果
+作为一种准行政救济手段，投诉机制的主要目的是促使投诉人和被投诉人就特定问题达成共识，而非做出某个具有法律约束力的决定。根据《工作办法》的规定，如果主管机构试图通过斡旋和调解来..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://joeythetranslator.github.io">
+        <img src="https://joeythetranslator.github.io/images/avatar.png?v=1717578286692" class="site-logo">
+        <h1 class="site-title">Joey&#39;s Blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me" class="site-nav">
+            自我介绍
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me-english" class="site-nav">
+            About Me
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/work-product-sample" class="site-nav">
+            Work Product Sample
+          </a>
+        
+      
+        
+          <a href="/" class="site-nav">
+            Homepage
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            Tags
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            Archives
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/zhuan-ti-yan-jiu-wai-shang-tou-zi" class="site-nav">
+            Foreign Investment
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/he-gui" class="site-nav">
+            Compliance
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/plain-chinese-jian-ming-zhong-wen" class="site-nav">
+            Plain Chinese
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/table-of-contents" class="site-nav">
+            Civil Code of the PRC
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/min-fa-dian-cuo-wu-he-ji" class="site-nav">
+            民法典翻译错误合集
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      This is a blog about using American English to translate Chinese stuff, in particular, the legal and business things about China.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://joeythetranslator.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">给红圈所 debug #001</h2>
+            <div class="post-date">2023-09-25</div>
+            
+            <div class="post-content" v-pre>
+              <p>近期在阅读君合律所发布的<a href="https://www.junhe.com/professionals/369">文章</a>时，发现了潜在错误。</p>
+<p>“投诉处理结果</p>
+<p>作为一种准行政救济手段，投诉机制的主要目的是促使投诉人和被投诉人就特定问题达成共识，而非做出某个具有法律约束力的决定。根据《工作办法》的规定，如果主管机构试图通过斡旋和调解来解决争议，在投诉人有资格提起投诉且所提起的投诉具有事实和法律依据的情况下，只有在投诉人和被投诉人之间达成谅解（例如和解协议）时投诉处理结案。如此达成的协议具有约束力和法律效力，根据《实施条例》的规定，<u><strong>被投诉人此后违反协议的，可对其实施相应的行政处罚。</strong></u>”</p>
+<p>以上表述摘自君合律师事务所<a href="https://www.junhe.com/legal-updates/1311">《外商投资企业投诉机制新规简述》</a></p>
+<p>然而，该段表述的最后一句话不符合中国法律规定。论证如下：</p>
+<p>2020<a href="http://www.mofcom.gov.cn/zfxxgk/article/xxyxgz/202112/20211203231099.shtml">《外商投资企业投诉工作办法》</a>第18条第2款规定：</p>
+<p>投诉人和被投诉人签署和解协议的，应当写明达成和解的事项和结果。依法订立的和解协议对投诉人和被投诉人具有约束力。被投诉人不履行生效和解协议的，依据《中华人民共和国外商投资法实施条例》第四十一条的规定处理。</p>
+<p>2020<a href="http://mg.mofcom.gov.cn/article/ddfg/202001/20200102927461.shtml">《中华人民共和国外商投资法实施条例》</a>第41条的规定如下：</p>
+<p>政府和有关部门及其工作人员有下列情形之一的，<u><strong>依法依规追究责任</strong></u>：</p>
+<p>综上， 被投诉人违反和解协议的，可能会被依法依规追究责任，但不是<u><strong>对其实施行政处罚</strong></u>。</p>
+<p>根据2021年<a href="https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NzAzYWRkMjAxNzczNzNkZjZhNDNlMzM%3D">《中华人民共和国行政处罚法》</a>第2条，行政处罚是指行政机关依法对违反行政管理秩序的<u><strong>公民、法人或者其他组织</strong></u>，以减损权益或者增加义务的方式予以惩戒的行为。</p>
+<p>通俗地说，行政处罚是“官”罚“民”。而在《外商投资企业投诉工作办法》中，被投诉人是“官”，并不能成为行政处罚的对象。</p>
+<p>因此， 我认为原文&quot;被投诉人此后违反协议的，可对其实施相应的行政处罚&quot;的表述是错误的。</p>
+<p>————————————————————</p>
+<p><a href="https://joeythetranslator.github.io/post/about-me/">Joey Zhang</a>，译者/法学学士，持有中国法律职业资格，长期从事法律翻译及商业翻译，个人最新简历可点击<a href="https://joeythetranslator.github.io/post/about-me/">此处</a>查阅。也可以通过以下平台联系我：<a href="https://www.linkedin.com/in/joey-zhang-6b3771b6/">LinkedIn</a>、<a href="https://www.douban.com/people/126260706/?_i=4955483vsFTz2A">豆瓣</a>、<a href="https://www.zhihu.com/people/joeythetranslator">知乎</a>、<a href="https://www.xiaohongshu.com/user/profile/6479c549000000002a037920">小红书</a></p>
+<p>博客地址：<a href="https://joeythetranslator.github.io/">Joey's Blog</a></p>
+<p>邮箱地址：<a href="mailto:JoeytheTranslator@foxmail.com">JoeytheTranslator@foxmail.com</a></p>
+<p>联系电话：+86 18759570730（微信同号）</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://joeythetranslator.github.io/post/tian-xia-wen-zhang-jie-shi-chao/">
+                  <h3 class="post-title">
+                    天下文章皆是抄
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>

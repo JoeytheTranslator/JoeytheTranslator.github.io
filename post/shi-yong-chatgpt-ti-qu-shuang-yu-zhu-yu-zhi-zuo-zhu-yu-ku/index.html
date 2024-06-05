@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>使用 ChatGPT 提取双语术语、制作术语库 | Joey&#39;s Blog</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://joeythetranslator.github.io/favicon.ico?v=1717578286692">
+<link rel="stylesheet" href="https://joeythetranslator.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="开始时间：2023年10月2日，15:28
+结束时间：2023年10月2日，16:07
+用时：0.65小时
+原文：中国合格评定认可与国际互认体系
+总结
+
+第二版的提示语优于第一版；
+利用 ChatGPT 可大幅节省术语提取时间，但前提是原文..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://joeythetranslator.github.io">
+        <img src="https://joeythetranslator.github.io/images/avatar.png?v=1717578286692" class="site-logo">
+        <h1 class="site-title">Joey&#39;s Blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me" class="site-nav">
+            自我介绍
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/about-me-english" class="site-nav">
+            About Me
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/work-product-sample" class="site-nav">
+            Work Product Sample
+          </a>
+        
+      
+        
+          <a href="/" class="site-nav">
+            Homepage
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            Tags
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            Archives
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/zhuan-ti-yan-jiu-wai-shang-tou-zi" class="site-nav">
+            Foreign Investment
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/he-gui" class="site-nav">
+            Compliance
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/plain-chinese-jian-ming-zhong-wen" class="site-nav">
+            Plain Chinese
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/table-of-contents" class="site-nav">
+            Civil Code of the PRC
+          </a>
+        
+      
+        
+          <a href="https://joeythetranslator.github.io/post/min-fa-dian-cuo-wu-he-ji" class="site-nav">
+            民法典翻译错误合集
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      This is a blog about using American English to translate Chinese stuff, in particular, the legal and business things about China.
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://joeythetranslator.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">使用 ChatGPT 提取双语术语、制作术语库</h2>
+            <div class="post-date">2023-10-02</div>
+            
+            <div class="post-content" v-pre>
+              <p>开始时间：2023年10月2日，15:28</p>
+<p>结束时间：2023年10月2日，16:07</p>
+<p>用时：0.65小时</p>
+<p>原文：<a href="https://www.cnas.org.cn/extra/col21/1212738873.pdf">中国合格评定认可与国际互认体系</a></p>
+<h2 id="总结">总结</h2>
+<ol>
+<li>第二版的提示语优于第一版；</li>
+<li>利用 ChatGPT 可大幅节省术语提取时间，但前提是原文的术语是准确的；</li>
+<li>利用此方法生产的术语表属于未经严格验证的术语表，在实际项目中仅供参考，需要在具体语境中分析是否可用。</li>
+</ol>
+<h2 id="步骤">步骤</h2>
+<ol>
+<li>下载原文的 PDF 文件</li>
+<li>用 Abbyy Finereader 转换成 Word 文档</li>
+<li>编写提示语（Prompt）</li>
+<li>在 ChatGPT 中输入提示语和原文</li>
+<li>将 ChatGPT 的回答复制粘贴到 Excel 文件</li>
+<li>人工检查上一步骤的双语术语表</li>
+<li>用 Glossary Converter 将检查后的双语术语表转换成 sdltm.格式的术语表</li>
+</ol>
+<h2 id="提示语">提示语</h2>
+<h3 id="提示语-v10">提示语 V1.0:</h3>
+<p>作为语言学专家，提取以下文本的术语，并以表格的形式呈现，中文一列，英文一列：</p>
+<p>结果：会出现机器幻觉，AI会添加不属于双语术语的超长短句。</p>
+<h3 id="提示语-v20">提示语 V2.0:</h3>
+<p>作为语言学专家，如果以下文本出现双语术语或英文缩略词，就提取双语术语，将提取结果以表格的形式呈现，中文一列，英文一列：</p>
+<p>结果：比 V1.0 效果好，不存在机器幻觉</p>
+<h1 id="2024年1月20日更新">2024年1月20日更新</h1>
+<p>任务：将检索得到的网页术语转换为机器可读的术语库文件，用于后续的项目。以<a href="https://www.ideasrms.cn/hotel-glossary-terms/">酒店 RMS 术语表</a>为例。</p>
+<h3 id="提示语-v30">提示语 V3.0:</h3>
+<p>作为语言学专家，针对以下文本的双语术语或英文缩略词，提取双语术语，将提取结果以表格的形式呈现，中文一列，英文一列，英文缩写单独一列，解释单独一列。不要新增无关术语。举例如下：</p>
+<p>输入文本：Average Daily Rate (ADR) | 每日平均房价（ADR）<br>
+实际每日客房收入/售出客房总数。</p>
+<p>输出文本：每日平均房价，Average Daily Rate，ADR，实际每日客房收入/售出客房总数</p>
+<p>以下为全部输入文本：</p>
+<p>结果：输出文本总体上可用，比人工整理快。如果输入文本过多，会新增无关术语，需要分批复制粘贴，重复以上流程。</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://joeythetranslator.github.io/post/ru-he-fan-yi-shou-xian-di-qu/">
+                  <h3 class="post-title">
+                    如何翻译受限地区？
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>
